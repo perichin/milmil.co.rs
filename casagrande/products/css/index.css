@@ -1,0 +1,83 @@
+
+.slick-slide img {
+	padding: 50px;
+}
+.max-height-350 {
+	height: 350px;
+	z-index: 1;
+}
+.cbp img {
+	width: 100%;
+	height: 100%;
+}
+.u-block-hover::before {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: rgba(0,0,0,.6);
+	width: 100%;
+	height: 350px;
+	background-blend-mode: multiply;
+	z-index: 1;
+}
+.u-block-hover:hover::before,
+.info-v5-3:hover .info-v5-3__info {
+	background-color: rgba(13,138,158,.5);
+}
+[class*="u-block-hover"],
+[class*="u-block-hover"]::before,
+[class*="u-block-hover"]::after {
+	transition: all .1s ease;
+}
+#filterControls {
+	/*display: none;*/
+}
+.thumb-inner {
+	font-family: Montserrat, sans-serif;
+	z-index: 2;
+}
+.thumb-title {
+	color: white;
+	font-weight: 200;
+	font-size: 23px;
+	line-height: 28px;
+	margin-bottom: 30px;
+}
+.thumb-title::after,
+.thumb-divider::after {
+	content: '';
+	display: block;
+	background-color: rgba(255,255,255,.3);
+	width: 50%;
+	height: 1px;
+	margin: 10px auto;
+}
+.thumb-title-center {
+	margin-top: 50%;
+}
+.rounded-circle {
+	opacity: 0.5;
+}
+.rounded-circle:hover {
+	opacity: 1;
+}
+article.info-v5-3 {
+	cursor: pointer;
+}
+@media (max-width: 575px) {
+	.slick-slide img {
+	padding: 70px;
+	}
+}
+@media (max-width: 480px) {
+	.cbp img {
+		padding: 15px;
+	}
+}
+/*	fancybox firefox issue	*/
+.fancybox-content {
+	width: inherit !important;
+	height: inherit !important;
+}

@@ -1,0 +1,498 @@
+{
+	"products": [
+		{
+			"title" : "SYNTURO XENON 5W30",
+			"category" : "Motorna ulja za putničke automobile i laka teretna vozila",
+			"class" : "motorna-ulja-za-putnicke-automobile-i-laka-teretna-vozila",
+			"img" : "synturo-xenon-5W30.jpg",
+			"description" : "100% sintetičko LOW SAPS motorno ulje,specijalno razvijeno za dugoročnu zaštitu kod svih vrsta motora najnovije generecije kod kojih je naglašena zaštita izduvnih sistema i smanjenje emisije izduvnih gasova. Preporučuje za sve moderne benzinske, dizel i LPG motore, sa ili bez turbine, motore poslednje generacije opremljenih sa DPF/FAP filterom i/ili SCR konvertorom.",
+			"types" : ["ACEA A3/B3/B4/C3", "API SN/SM/CF", "MB 229.51/229.31", "VW 502.00/505.01/505.00", "GM/OPEL DEXOS 2", "BMW LL-04", "RN 0700"]
+		},
+        {
+            "title" : "SYNTURO XENON 5W40",
+            "category" : "Motorna ulja za putničke automobile i laka teretna vozila",
+            "class" : "motorna-ulja-za-putnicke-automobile-i-laka-teretna-vozila",
+            "img" : "synturo-xenon-5W40.jpg",
+            "description" : "100% sintetičko motorno ulje za WAG motore, uključujući direktno ubrizgavanje pomoću pumpe. Posebno je namenjeno za VW motore za koje se traži standard 505.01 – PASAT kao i za ŠKODU – FABIA,OKTAVIA, SUPERB, kao i za sve motore poslednje generacije opremljenih sa DPF/FAP filterom i/ili SCR konvertorom.",
+            "types" : ["ACEA A3/B3/B4/C3", "API SN/SM/CF", "FORD WSS-M2C917A", "MB 229.51/229.31", "VW 502.00/505.01/505.00", "PORCHE A40", "BMW LL-04", "RN 0700/0710"]
+        },
+        {
+            "title" : "SYNTURO MISTRAL 5W30",
+            "category" : "Motorna ulja za putničke automobile i laka teretna vozila",
+            "class" : "motorna-ulja-za-putnicke-automobile-i-laka-teretna-vozila",
+            "img" : "synturo-mistral-5W30.jpg",
+            "description" : "100% sintetičko motorno ulje, poboljšano jedinstvenom kombinacijom aditiva visokih performansi uključujući i sistem protiv habanja, koji pruža bržu zaštitu pri startovanju motora radi smanjenja habanja i stvaranja naslaga, obezbeđuje uštedu goriva i odličnu zaštitu pri visokim i niskim temperaturama za sve benzinske i dizel motore Jedinstvena formulacija ulja koje zadovoljava VW 504.00 / 507.00 specifikaciju kvaliteta.",
+            "types" : ["ACEA A3/B3/B4/C3", "API SN/CF", "MB 229.51", "VW 504.00/507.00", "VW 503.00/503.01/505.00/505.01/506.00/506.01", "BMW LL-04"]
+        },
+        {
+            "title" : "SYNTURO CRYSTAL C4 5W30",
+            "category" : "Motorna ulja za putničke automobile i laka teretna vozila",
+            "class" : "motorna-ulja-za-putnicke-automobile-i-laka-teretna-vozila",
+            "img" : "synturo-crystal-C4-5W30.jpg",
+            "description" : "100% sintetičko “LOW SAPS” motorno ulje, specijalno za dugotrajnu zaštitu svih vrsta benzinskih, dizel i LPG motora najnovije generacije sa DPF filteron i/ili katalizatorom. Posebna preporuka za vozila iz RENAULT grupacije kao i Hyundai, Kia, Peugeot, Citroën.",
+            "types" : ["ACEA A3/B4/C4", "API SN/CF", "MB 226.51", "RN 0720"]
+        },
+        {
+            "title" : "SYNTURO GOLD 5W40",
+            "category" : "Motorna ulja za putničke automobile i laka teretna vozila",
+            "class" : "motorna-ulja-za-putnicke-automobile-i-laka-teretna-vozila",
+            "img" : "synturo-gold-5W40.jpg",
+            "description" : "100% sintetičko motorno ulje posebno dizajnirano sa izuzetno visokim prefomansama. Savršeno ulje za sportske automobile. Preporučuje se za sve benzinske, LPG i dizel sa i bez turbo kompresora uključujući i viševentilske motore. Omogućava izuzetno podmazivanje protiv habanja, oksidacije i sprečava stvaranje crnog taloga. U zimskim uslovima kod voznje stani-pođi, smanjuje potrošnju goriva.",
+            "types" : ["ACEA A3/B3/B4", "API SN/SM/SL/CF", "VW 501.01/502.00/505.00", "MB 229.1/229.3", "BMW LL-01", "RENAULT RN 0700/0710"]
+        },
+        {
+            "title" : "SYNTURO 10W60",
+            "category" : "Motorna ulja za putničke automobile i laka teretna vozila",
+            "class" : "motorna-ulja-za-putnicke-automobile-i-laka-teretna-vozila",
+            "img" : "synturo-10W60.jpg",
+            "description" : "100% sintetičko motorno ulje za sve tipove motora, benzinskih, viševentilskih kao i svih dizel i turbo-dizel motora, koji se napajaju benzinom i naftom. Posebno se preporučuje za motore koji rade pod najtežim uslovima – TRKAČKE AUTOMOBILE. Preporučuje se i za podmazivanje motorcikala sa viskoznim kvačilom, štiti lamele menjača i produžava vek transmisije.",
+            "types" : ["ACEA A3 / B3 / B4", "API SN/CF"]
+        },
+        {
+            "title" : "TITANIUM FUTURA 10W40",
+            "category" : "Motorna ulja za putničke automobile i laka teretna vozila",
+            "class" : "motorna-ulja-za-putnicke-automobile-i-laka-teretna-vozila",
+            "img" : "titanium-futura-10W40.jpg",
+            "description" : "Polusintetičko motorno ulje za sve tipove benzinskih, dizel sa i bez turbo kompresora kao i viševentilskih motora novije generacije. Poboljšava zaptivanje mikroskopskih rupica u cilindrima, sto omogućava Max zaštitu i povećava kompresiju. Smanjuje potrošnju goriva.",
+            "types" : ["ACEA A3 / B3 / B4 / E2", "API SL/SJ/CG-4/CF", "MB 228.1 / 229.1", "VW 501.01/502.00/505.00", "PSA B71 2294", "RN 0700"]
+        },
+        {
+            "title" : "ENERGY FORZA 15W40",
+            "category" : "Motorna ulja za putničke automobile i laka teretna vozila",
+            "class" : "motorna-ulja-za-putnicke-automobile-i-laka-teretna-vozila",
+            "img" : "energy-forza-15W40.jpg",
+            "description" : "Univerzalno, multigradno mineralno 15W40 motorno ulje za sve tipove benzinskih i turbo i dizel motora. Prevazilazi visoke standarde najvećih svetskih proizvođaca motora. Ispunjava najstrožije SL zahteve. Smanjuje potrošnju ulja i goriva i štiti motor od crnog taloga.",
+            "types" : ["ACEA A3 / B3 / B4 / E3", "API SL / SJ / CG4 / CF4 / CF", "MB 228.1 / 229.1", "VW 501.01 / 505.00", "MACK EO-L", "VOLVO VDS", "MAN 270 / 271", "MTU/DDC type 1"]
+        },
+        {
+            "title" : "ENERGY FORZA 20W50",
+            "category" : "Motorna ulja za putničke automobile i laka teretna vozila",
+            "class" : "motorna-ulja-za-putnicke-automobile-i-laka-teretna-vozila",
+            "img" : "energy-forza-20W50.jpg",
+            "description" : "Univerzalno, multigradno mineralno 20w50 motorno ulje za sve tipove benzinskih i turbo i dizel motora. Prevazilazi visoke standarde najvećih svetskih proizvođaca. Ispunjava SL zahteve. Posebno se preporučuje za krajeve sa toplom klimom i visokim spoljnim temperaturama.",
+            "types" : ["ACEA A3 / B3", "API SL / CF", "MB 228.1 / 229.1", "VW 501.01 / 505.00"]
+        },
+        {
+            "title" : "HEAVY DUTY EURO HPD 10W40",
+            "category" : "Motorna ulja za teretni program i građevinsku mehanizacij",
+            "class" : "motorna-ulja-za-teretni-program-i-gradjevinsku-mehanizaciju",
+            "img" : "heavy-duty-euro-hpd-10W40.jpg",
+            "description" : "Euro HPD je 100% SINTETIČKO motorno ulje sa najvišim performansama specijalno razvijeno za dizel motore teretnih vozila, autobusa i građevinskih mašina, bazirano na poslednjoj “LOW SAPS” tehnologiji aditiva. Prevazilazi najstrožije zahteve evropskog zakona EURO V i EURO VI o izduvnim gasovima sa EGR kontrolisanom emisijom sa ili bez DPF filtera. ZA MOTORE EURO VI i prethodne (EURO I,II,III,IV i V).",
+            "types" : ["ACEA E6 / E9 / E4 / E7", "API CI4", "VOLVO VDS-3", "RENAULT RVI RLD-2", "SCANIA/IVECO", "CUMMINS CES 20076/20077/20078", "MTU Type 3.1", "DAF Extended drain capability", "MB 228.51", "MAN M3477", "DEUTZ DQC IV-10 LA", "MACK EO-N"]
+        },
+        {
+            "title" : "HEAVY DUTY SUPER HPD 10W40",
+            "category" : "Motorna ulja za teretni program i građevinsku mehanizacij",
+            "class" : "motorna-ulja-za-teretni-program-i-gradjevinsku-mehanizaciju",
+            "img" : "heavy-duty-super-hpd-10W40.jpg",
+            "description" : "Vrhunsko multigradno motorno ulje na sintetičkoj bazi sa dugim Intervalom zamene. Usavršeno za motore kamiona, građevinskih masina i autobusa najnovije generacije koji rade pod teškim uslovima i u skladu sa EURO V evropskim zakonom o gasovima bez DPF filtera. ZA MOTORE EURO V i prethodne (EURO I,II,III &amp; IV).",
+            "types" : ["ACEA E7 / B4", "API CI4 / CH 4 / CG 4 / CF4", "MB 228.3 / 228.1", "VOLVO VDS-3", "RENAULT RVI RLD-2", "MAN M3275-1", "CAT ECF-2 / ECF-1a", "SCANIA/IVECO", "MTU Type 2", "CUMMINS CES 20076/20077/20078", "MACK EO-M+ / EO-M / EO-N", "DEUTZ DQC-III"]
+        },
+        {
+            "title" : "HEAVY DUTY SUPER HPD 15W40",
+            "category" : "Motorna ulja za teretni program i građevinsku mehanizacij",
+            "class" : "motorna-ulja-za-teretni-program-i-gradjevinsku-mehanizaciju",
+            "img" : "heavy-duty-super-hpd-15W40.jpg",
+            "description" : "Vrhunsko multigradno mineralno super long (SHPD) motorno ulje. Ulje je namenjeno za podmazivanje dizel i brzohodnih turbošarziranih dizel motora sa i bez inter – kulera. Omogućava MAX zaštitu i čistoću motora. Interval zamene ovog ulja zavisi od radnih uslova. MAX interval zamene je do 45.000 km.Koristi se kod kamiona, autobusa, građevinskih, rudarskihh i poljoprivrednih mašina. Koristi se i kod benzinskih motora gde prozvođači istih to preporučuju. ZA MOTORE EURO V i prethodne ( EURO I,II,III &amp; IV).",
+            "types" : ["ACEA E7 / B4", "API CI4 / CH 4 / CG 4 / CF4", "MB 228.3 / 228.1", "VOLVO VDS-3", "RENAULT RVI RLD-2", "MAN M3275-1", "CAT ECF-2 / ECF-1a", "SCANIA/IVECO", "MTU Type 2", "CUMMINS CES 20076/20077/20078", "MACK EO-M+ / EO-M / EO-N", "DEUTZ DQC-III", "DDC 93K215"]
+        },
+        {
+            "title" : "HEAVY DUTY SUPER HPD 20W50",
+            "category" : "Motorna ulja za teretni program i građevinsku mehanizacij",
+            "class" : "motorna-ulja-za-teretni-program-i-gradjevinsku-mehanizaciju",
+            "img" : "heavy-duty-super-hpd-20W50.jpg",
+            "description" : "Vrhunsko multigradno mineralno super long (SHPD) motorno ulje. Ulje je namenjeno za podmazivanje dizel i brzohodnih turbošarziranih dizel motora sa i bez inter – kulera. Omogućava MAX zaštitu i čistoću motora. Interval zamene ovog ulja zavisi od radnih uslova. MAX interval zamene je do 45.000 km.Koristi se kod kamiona, autobusa,građevinskih,rudarskihh i poljoprivrednih mašina. Koristi se i kod benzinskih motora gde prozvođači istih to preporučuju. Preporučuje se za upotrebu u područjima sa visokim spoljnim temeraturama. ZA MOTORE EURO IV i prethodne (EURO I,II &amp; III).",
+            "types" : ["ACEA E7 / B4", "API CI4 / CH 4 / CG 4 / CF4F", "MAN M3275", "MB 228.3 / 228.1", "VOLVO VDS-3", "SCANIA/IVECO", "CUMMINS CES 20076/20077/20078", "CAT ECF-1a", "MACK EO-M+", "RENAULT VI RLD"]
+        },
+        {
+            "title" : "SUPER C SAE 30",
+            "category" : "Motorna ulja za teretni program i građevinsku mehanizacij",
+            "class" : "motorna-ulja-za-teretni-program-i-gradjevinsku-mehanizaciju",
+            "img" : "super-c-sae-30.jpg",
+            "description" : "Univerzalno monogradno ulje za sve dizel i turbo dizel motore kamiona, autobusa, traktora i građevinskih mašina koji rade u najtežim uslovima.",
+            "types" : ["ACEA E2", "ALLISON C4", "CAT TO-2", "API CF4/CF/SJ/SF", "CCMC D4/G4"]
+        },
+        {
+            "title" : "KRATOS AGROTRAC 10W30",
+            "category" : "Ulja za traktore i poljoprivrednu mehanizaciju",
+            "class" : "ulja-za-traktore-i-poljoprivrednu-mehanizaciju",
+            "img" : "barrel.jpg",
+            "description" : "S.T.O.U. vrsta ulja za upotrebu u motorima, mokrim kočnicama, transmisiji i hidrauličnom sistemu kod agrarnih traktora. Preporučeno za upotrebu kod široke game traktora (dizel i benzin) sa ili bez turbo punjača.",
+            "types" : ["API CD/SF/GL-4 CCMC G2/D2", "MIL-L- 2104C&amp;D MIL-L- 46152C/MIL-L- 2105", "MASSEY FERGUSON M1139/M1144", "ZFTE-ML06B/06F &amp; TE-ML 07B1", "VICKERS HYDRAULIC PUMP SYSTEM"]
+        },
+        {
+            "title" : "KRATOS ALTRAX B",
+            "category" : "Ulja za traktore i poljoprivrednu mehanizaciju",
+            "class" : "ulja-za-traktore-i-poljoprivrednu-mehanizaciju",
+            "img" : "barrel.jpg",
+            "description" : "Univerzalno U.T.T.O. traktorsko ulje za transmisiju, hidraulični sistem i mokre kocnice kod poljoprivrednih i industrijskih traktora.",
+            "types" : ["UTTO", "API GL4F", "ALLISON C4", "CAT TO-2", "JOHN DEERE JDM / J20C / J20D", "CASE MS 1210", "CASE NEW HOLLAND CNH MAT 3509/3505/3525/3540", "HCE-102 / HCE-102W", "AGCO POWERFLUID 821XL", "MF CMS M1135/M1141/M1143/M1145", "FORD ESN-M2C86- B / ESN-M2C86- C / ESN-M2C134- D", "ZF TE ML 03E/05F/06E/06F/06K/17E/21F", "FNHA-2- C-200.00 / 201.00", "SAE 10W30"]
+        },
+        {
+            "title" : "CATRALUBE 10W",
+            "category" : "Ulja za traktore i poljoprivrednu mehanizaciju",
+            "class" : "ulja-za-traktore-i-poljoprivrednu-mehanizaciju",
+            "img" : "barrel.jpg",
+            "description" : "Specijalno razvijeno ulje za transmisiju, mokre kočnice,upravljački sistem kao i hidrauliku kod CATERPILAR-ovih mašina koje zahtevaju CAT TO-4 ili ALLISON C4 fluid.",
+            "types" : ["ALLISON C4", "CATERPILLAR TO-4", "KOMATSU MICRO-CLUTCH", "ZF TE ME 01 / 03"]
+        },
+        {
+            "title" : "SUNVIS HV 32 / 46 / 68 / 100",
+            "category" : "Hidraulična ulja",
+            "class" : "hidraulicna-ulja",
+            "img" : "barrel.jpg",
+            "description" : "Hidraulično ulje visokog kvaliteta za sve cirkulacione hidraulične sisteme, koji rade na različitim temperaturama, sa velikim indeksom viskoziteta i optimalnim karakteristikama protiv smicanja, korozije i habanja. Minimalna količina kiselosti omogućava da hidraulični sistemi rade u produženim intervalima bez oštećenja gumenih delova.",
+            "types" : ["CINCINNATI MACHINE P-68 / P-69 / P-70", "DENISON HF-0 / HF-1 / HF-2", "DIN 51524 Part 2 &amp; 3 (HLP/HVLP)", "ISO 11158 (HR/HV)", "AFNOR NF E 48-603 HM/HV", "ISO VG 32 / 46 / 68 / 100"]
+        },
+        {
+            "title" : "SUNVIS HM 32 / 46 / 68 / 100",
+            "category" : "Hidraulična ulja",
+            "class" : "hidraulicna-ulja",
+            "img" : "barrel.jpg",
+            "description" : "Univerzalna hidraulična ulja, standardnog nivoa kvaliteta.",
+            "types" : ["ISO VG 15/22/32/46/68/100/150", "DIN 51524 Part 2 (HLP)", "ISO 11158 (HM)A", "AFNOR NF E 48-603 HM", "CINCINNATI MACHINE P-68 / P-69 / P-70", "DENISON HF-0 / HF-1 / HF-2"]
+        },
+        {
+            "title" : "COMPRESSOL P",
+            "category" : "Industrijska ulja",
+            "class" : "industrijska-ulja",
+            "img" : "barrel.jpg",
+            "description" : "Visoko kvalitetno ulje za vazdušne kompresore.",
+            "types" : ["DIN 51506 VC-L, VD-L", "ISO 6521-L- DAB", "ISO VG 32 / 46 / 68 / 100 / 150"]
+        },
+        {
+            "title" : "DURAGEAR",
+            "category" : "Industrijska ulja",
+            "class" : "industrijska-ulja",
+            "img" : "barrel.jpg",
+            "description" : "100% sintetičko reduktorsko ulje za transmisiju pod visokim opterećenjem i konstantnom visokom radnom temperaturom od 120 C.",
+            "types" : ["ISO VG 100 / 150 / 220 / 320 / 460 / 6803", "DIN 51517 Part 3 (CLP)", "ISO 12925-1 CKC - CKD", "CINCINNATI MACHINE P-76 / P-77 / P-74", "US STEEL 224"]
+        },
+        {
+            "title" : "SUNEP",
+            "category" : "Industrijska ulja",
+            "class" : "industrijska-ulja",
+            "img" : "barrel.jpg",
+            "description" : "Reduktorsko ulje za extremne pritiske veoma visokog viskoziteta. Brzo se odvaja od vode i ima izuzetne anti-penušave osobine.",
+            "types" : ["ISO VG 100 / 150 / 220 / 320 / 460 / 680", "DIN 51517 Part 3 (CLP)", "ISO 12925-1 CKC - CKD", "US STEEL 224"]
+        },
+        {
+            "title" : "ROCKDRILL",
+            "category" : "Industrijska ulja",
+            "class" : "industrijska-ulja",
+            "img" : "barrel.jpg",
+            "description" : "Ulje visokog kvaliteta specijalno formulisano da obezbeđuje max. performance koje se zahtevaju za bušenje kamena i pneumatskih alata.",
+            "types" : ["32 -68"]
+        },
+        {
+            "title" : "OPLATOL",
+            "category" : "Industrijska ulja",
+            "class" : "industrijska-ulja",
+            "img" : "barrel.jpg",
+            "description" : "OPLATOL ulja su ulja na bazi rafinisanih baznih ulja parafinske osnove, uz dodatak aditiva za istiskivanje vode i aditiva za bolje odvajanje betona od kalupa. Primenjuje se kod čeličnih oplata i oplata od vodootpornih šperploča.",
+            "types" : []
+        },
+        {
+            "title" : "MULTI DUTY GREASE EP 2",
+            "category" : "Masti",
+            "class" : "masti",
+            "img" : "multi-duty-grease-ep-2.jpg",
+            "description" : "Litijumska univerzalna mast za podmazivanje teško opterećenih ležajeva u motoru i šasiji bagera, buldožera, kamiona i teških teretnih vozila. Temperaturni interval –20 C do +120 C (-4F do +248 F). Sadrži EP additive. Do 100.000 km.",
+            "types" : ["NLGI: 2", "ISO 6743/9: L-XBBEA- 1 / L-XBBEA- 2 / L-XBBEA- 3", "DIN 51502: KP00G-30 / KP1K-20 / KP2K-20 / KP3K-20"]
+        },
+        {
+            "title" : "MULTI DUTY GREASE EP 00",
+            "category" : "Masti",
+            "class" : "masti",
+            "img" : "multi-duty-grease-ep.jpg",
+            "description" : "Polutekuća mast za upotrebu u centralnim sistemima modernih vozila. Poseduje visok index viskozmosti i EP aditive. Temperaturni interval od -20 C do +120 C.",
+            "types" : ["NLGI: 00 ISO 6743/9: L-XBBEA- 1 / L-XBBEA- 2 / L-XBBEA- 3", "DIN 51502: KP00G-30 / KP1K-20 / KP2K-20 / KP3K-20"]
+        },
+        {
+            "title" : "LITEX M-2",
+            "category" : "Masti",
+            "class" : "masti",
+            "img" : "litex-m-2.jpg",
+            "description" : "Litijumska mast koja sadrži u sebi EP additive, anti-korozive i anti-oksidante. Predviđena je za konstantan rad na temperaturama od -20 do +180 C, a u kraćim vremenskim intervalima i do +200 C.",
+            "types" : ["NLGI: 2"]
+        },
+        {
+            "title" : "MULTI MOLY GREASE",
+            "category" : "Masti",
+            "class" : "masti",
+            "img" : "multi-moly-grease.jpg",
+            "description" : "Grafitna mast najvišeg kvaliteta, 12-hidrantna mast, pojačana sa MoS2 aditivima 1%. Predviđena za korišćenje u teškoj industriji, auto i brodskoj industriji,gde se zahteva mast za visoke pritiske. Temeperaturalni interval od -20 do +140 C. Poboljšana otpornost na vodu.",
+            "types" : ["NLGI: 2 ISO 6743/9: L-XBCEB- 2 / L-XBCEB- 3", "DIN 51502: MPF2K-20 / MPF3K-20", "DIN 51502: KP2K-20 / KP3K-20"]
+        },
+        {
+            "title" : "SUNOCO AVO 7+",
+            "category" : "Sprejevi",
+            "class" : "sprejevi",
+            "img" : "spray.jpg",
+            "description" : "Univerzalan sprej za primenu u industriji, održavanju automobila, moto-sportu, vodenim sportovima i za kućnu upotrebu. Štiti metal od oksidacije i korozije, kao i električne komponente.",
+            "types" : []
+        },
+        {
+            "title" : "SUNOCO PTFE-SPRAY",
+            "category" : "Sprejevi",
+            "class" : "sprejevi",
+            "img" : "spray.jpg",
+            "description" : "Sprej za podmazivanje lanaca i zupčanika",
+            "types" : []
+        },
+        {
+            "title" : "SUNOCO DELCOAT",
+            "category" : "Sprejevi",
+            "class" : "sprejevi",
+            "img" : "spray.jpg",
+            "description" : "Sprej protiv rđe i korozije na bazi bitumena.",
+            "types" : []
+        },
+        {
+            "title" : "SUNOCO DELTEX NEW SPRAY",
+            "category" : "Sprejevi",
+            "class" : "sprejevi",
+            "img" : "spray.jpg",
+            "description" : "Sprej protiv rđe i korozije na bazi voska.",
+            "types" : []
+        },
+        {
+            "title" : "HOUSEHOLD OIL",
+            "category" : "Sprejevi",
+            "class" : "sprejevi",
+            "img" : "spray.jpg",
+            "description" : "Ulje specijalno razvijeno za korišćenje u domaćinstvu. Za održavanje i podmazivanje bicikli, šivećih mašina, rolera, šarki, pisaćih mašina, pištolja itd. Sadrzi aditive koji sprečavaju rđu i oksidaciju.",
+            "types" : []
+        },
+        {
+            "title" : "GEAR GL-5 80W90",
+            "category" : "Transmisiona ulja",
+            "class" : "transmisiona-ulja",
+            "img" : "gear-gl-5.jpg",
+            "description" : "Multigradno mineralno menjačko ulje sa EP aditivom za ekstremne pritiske kod zupčanika u menjačkim kutijama i diferencijalima. Primenom ulja omogućava se MAX zaštita od habanja, korozije i penušanja.",
+            "types" : ["MAN 342 M2", "ZF TE ML 05A / 07A / 12E / 16B,C / 17B / 19B / 21AF", "MIL-L- 2105D", "VOLVO 97310", "MACK GO-J"]
+        },
+        {
+            "title" : "GEAR GL-5 85W140",
+            "category" : "Transmisiona ulja",
+            "class" : "transmisiona-ulja",
+            "img" : "gear-gl-5.jpg",
+            "description" : "Multigradno mineralno menjačko ulje sa EP aditivom za ekstremne pritiske kod zupčanika u menjačkim kutijama i diferencijalima. Primenom ulja omogućava se MAX zaštita od habanja, korozije i penušanja.",
+            "types" : ["SAE 140 &amp; 85W140 - API GL5/GL4", "MIL PRF 2105E", "MB 235.0 / 235.1", "ZF TE ML 05A / 12E / 16C / 17B / 19B", "MIL-L- 2105D / MIL-L- 2105"]
+        },
+        {
+            "title" : "GEAR GL-5 SAE 90",
+            "category" : "Transmisiona ulja",
+            "class" : "transmisiona-ulja",
+            "img" : "gear-gl-5.jpg",
+            "description" : "Monogradno mineralno menjačko ulje za ekstremne pritiske na mineralnoj bazi, obogaćeno EP aditivima.",
+            "types" : ["MAN 342 M2", "ZF TE ML 05A / 07A / 12E / 16B,C / 17B / 19B / 21A", "MIL-L- 2105D", "VOLVO 97310", "MACK GO-J"]
+        },
+        {
+            "title" : "GEAR GL-4 SAE 80",
+            "category" : "Transmisiona ulja",
+            "class" : "transmisiona-ulja",
+            "img" : "gear-gl-5.jpg",
+            "description" : "Monogradno mineralno ulje koje se primenjuje za podmazivanje menjačkih kutija kod putničkih vozila sa prednjom vučom, kod kojih su sinhroni proizvedeni od obojenih metala. Preporuka svih JASSO proizvođača VW, OPEL, RENO... Isključivo se koristi kod svih tipova kamiona sa elektronskim EPS menjačima. Primenom se omogućava MAX zaštita od habanja, korozije i penušanja.",
+            "types" : ["MIL-L- 2105", "SAE 80 API GL4", "MAN 341 Z1 / Z2 / E2", "MB 235.1", "ZF TE ML 02A / 08 / 16A / 17A / 19A"]
+        },
+        {
+            "title" : "GEAR GL-5 SUPERFLOW SAE 75W80",
+            "category" : "Transmisiona ulja",
+            "class" : "transmisiona-ulja",
+            "img" : "gear-gl-5-superflow.jpg",
+            "description" : "Multigradno polu-sintetičko ulje ulje za transmisiju koje obezbeđuje idealno podmazivanje menjačkih kutija kako na ekstremno niskim tako i na visokim temperaturama. Izuzezna oksidaciona otpornost.",
+            "types" : ["MIL-L- 2105D", "VOLVO 97310", "SAE 75W80 - API GL4 / GL5", "SAE J2360", "MIL-PRF- 2105E", "PSA (Citroën, Peugeot)", "RENAULT (Excluding serie J)"]
+        },
+        {
+            "title" : "GEAR GL-4 HYPERFLOW 75W80 LDZ",
+            "category" : "Transmisiona ulja",
+            "class" : "transmisiona-ulja",
+            "img" : "gear-gl-5-hyperflow.jpg",
+            "description" : "Multigradno 100% sintetičko transmisiono ulje sa EP (ekstremni pritisak) aditivima. Posebno se preporučuje za poslednju generaciju ZF menjačkih kutija i podmazivanje menjača teških teretnih vozila koja rade u najtežim uslovima. Produženi interval zamene.",
+            "types" : ["ZF TE ML 01L / 02D / 02L / 02E / 16K", "MAN 341 Z4 (ZF) / 341 E3 (EATON)", "VOLVO 97305", "SAE 75W80 - API GL4", "MIL-PRF- 2105", "MB 235.4", "RENAULT / DAF / IVECO"]
+        },
+        {
+            "title" : "GEAR GL-5 HYPERFLOW 75W90",
+            "category" : "Transmisiona ulja",
+            "class" : "transmisiona-ulja",
+            "img" : "gear-gl-5-hyperflow.jpg",
+            "description" : "100% sinteticko multigradno menjačko ulje najnovije generacije koje se koristi u menjačima i diferencijalima svih tipova automobila. Izuzetna viskoznost omogućava stvaranje zastitnog filma, koji obezbeđuje duge intervale zamene i sigurnost u eksploataciji.",
+            "types" : ["MIL-L- 2105D", "VOLVO 97310", "MACK GO-J", "SAE J2360", "SAE 75W90 - API GL4 / GL5", "MAN 342 S1", "ZF TE ML 05A / 07A / 08 /12E / 16B / 17B / 19B"]
+        },
+        {
+            "title" : "GEAR GL-5 HYPERFLOW 75W140",
+            "category" : "Transmisiona ulja",
+            "class" : "transmisiona-ulja",
+            "img" : "gear-gl-5-hyperflow.jpg",
+            "description" : "100% sintetičko multigradno menjačko ulje najnovije generacije koje se koristi u menjačima i diferencijalima svih tipova automobila. Izuzetna viskoznost omogućava stvaranje zaštitnog filma, koji obezbeđuje duge intervale zamene i sigurnost u eksploataciji.",
+            "types" : ["SAE 75W140 - API GL4 / GL5 / GL5 LS", "ZF TE ML 05A/05B/12B/12E/16C/16D/21A/21B", "MIL-L- 2105E", "SCANIA STO 1:0"]
+        },
+        {
+            "title" : "SUNAMATIC ATF DEX III",
+            "category" : "Ulja za automatske menjače i servo volane",
+            "class" : "ulja-za-automatske-menjace-i-servo-volane",
+            "img" : "sunamatic-atf-dex-3.jpg",
+            "description" : "Jedno od najsavremenijih ulja za automatske menjače i transmisiju koje prevazilazi zahteve vodećih svetskih proizvođača. Upotrebljava se kod automatskih menjača hidrauličnih spojki i konektora i za upravljačke mehanizme kod putničkih i teretnih vozila. Svojim osobinama ovo ulje pruža MAX zaštitu svih delova u sistemu i time omogućava optimalno funkcionisanje, produženi interval zamene.",
+            "types" : ["CAT TO-2", "GM DEXRON&reg; III-H/G/F – DEXRON&reg; II", "FORD MERCON&reg; M2C138-CJ/M2C166- H", "MB 236.1", "ALLISON C3 / C4 / TES 389", "VOITH 55.6336.41 / G.607", "ZF TE ML 09 / 11 / 14", "POWER STEERING FLUID"]
+        },
+        {
+            "title" : "SUNAMATIC ATF +4&reg;",
+            "category" : "Ulja za automatske menjače i servo volane",
+            "class" : "ulja-za-automatske-menjace-i-servo-volane",
+            "img" : "sunamatic-atf-+4.jpg",
+            "description" : "CHRYSLER ATF+4 fluid za automatske menjače. Preporučuje se kao transmisiono ulje za Crysler gupaciju gde se ATF +4 ili ranije verzije ATF zahtevaju (kao sto je ATF +3).",
+            "types" : ["DAIMLER CHRYSLER MS-9602", "ATF+4&reg;", "ATF+3&reg; or earlier versions of ATF+&reg;"]
+        },
+        {
+            "title" : "SUNAMATIC ATF DEX VI",
+            "category" : "Ulja za automatske menjače i servo volane",
+            "class" : "ulja-za-automatske-menjace-i-servo-volane",
+            "img" : "sunamatic-atf-dex-6.jpg",
+            "description" : "ATF DEX VI je vanstandardni fluid za automatsku transmisiju, specijalno razvijen za upotrebu u menjačima poslednje generacije. U poređenju sa ATF D III, ATF D VI ima duplo veći interval zamene i poboljšane performanse kako za stare tako i za nove menjace.",
+            "types" : ["GM DEXRON&reg; VI / N10060", "JASO 1-A", "Aisin Warner AW-1", "Honda DW-1", "Hyundai/Kia SP-IV / NWS-9638", "Toyota WS", "Nissan Matic-S"]
+        },
+        {
+            "title" : "SUNAMATIC ATF S 168",
+            "category" : "Ulja za automatske menjače i servo volane",
+            "class" : "ulja-za-automatske-menjace-i-servo-volane",
+            "img" : "sunamatic-atf-s-168.jpg",
+            "description" : "Sintetički fluid za automatske menjače. Preporučuje se za upotrebu gde god se navedene specifikacije zahtevaju. Kompatibilan sa svim mogućim materijalima koji se koriste za izradu automatskih menjača.",
+            "types" : ["CAT TO-2", "AISIN-WARNER JWS-3309", "ALLISON C3 / C4 / TES 389 / TES 295", "BMW 7045E / LA2634 / LT711141 / ETL-8072B", "FORD FNR5 / MERCON&reg; / MERCON&reg; V", "HONDA ATF Z1", "HYUNDAI SP-II / SP-III", "KIA SP-II / SP-III - Red1", "NISSAN Matic Fluid D/J/K/S / N402", "RENAULT NISSAN Matic D/J/K", "GM DEXRON&reg; II-D/E - TASA / GM DEXRON&reg; III G/H", "PEUGEOT ZF LifeGuardFluid 5 / LT71141", "SAAB JWS 3309", "TOYOTA Type T / T-II / T-III / T-IV", "VOLVO 4-6 Speed / 97340 / 97341", "MAN 339 Type V-2 / 339 Type Z-2 / 339 Type Z-3", "MB 236.1/5/6/7/9/10/11", "ZF TE-ML 02F/05L/04D/09/11B/14A/14B/16L/16M/20B"]
+        },
+        {
+            "title" : "SUNAMATIC ATF 170",
+            "category" : "Ulja za automatske menjače i servo volane",
+            "class" : "ulja-za-automatske-menjace-i-servo-volane",
+            "img" : "sunamatic-atf-170.jpg",
+            "description" : "Tečnost za automatske menjače visokih performansi specijalno razvijena za automatske menjače kod MERCEDES BENZ vozila koji zahtevaju MB 236.14 specifikaciju. Takođe se može primenjivati kod 7-stepenih automatskih menjača koji zahtevaju MB 236.12 specifikaciju.",
+            "types" : ["MB 236.14"]
+        },
+        {
+            "title" : "SUNOCO CHF",
+            "category" : "Ulja za automatske menjače i servo volane",
+            "class" : "ulja-za-automatske-menjace-i-servo-volane",
+            "img" : "barrel.jpg",
+            "description" : "100% sintetički hidraulični fluid za servo volane i niz takozvanih integrisanih hidrauličnih sistema najnovijih automobila, kamiona,traktora.",
+            "types" : ["ISO 7308 DIN 51524(T3)", "AUDI-VW TL 52146", "BMW 81229407758", "MB 345.00"]
+        },
+        {
+            "title" : "BRAKE FLUID DOT 4",
+            "category" : "Ulja za kočione sisteme",
+            "class" : "ulja-za-kocione-sisteme",
+            "img" : "brake-fluid-dot-4.jpg",
+            "description" : "Tečnost za kočnice sa visokom tačkom ključanja koja odgovara svim kočionim sistemima. Može se mešati sa svim tečnostima za kočnice, koje odgovaraju navedenim specifikacijama. Obavezna periodična zamena u celom sistemu prema preporukama proizvođača.",
+            "types" : ["FMVSS 116 (DOT 4)", "SAE J 1703 / J70C / 70R1 / 70R3", "FORD WSS-M2C917A", "MB 229.51/229.31", "VW 502.00/505.01/505.00", "PORCHE A40", "BMW LL-04", "RN 0700/0710"]
+        },
+        {
+            "title" : "BRAKE FLUID DOT 5.1",
+            "category" : "Ulja za kočione sisteme",
+            "class" : "ulja-za-kocione-sisteme",
+            "img" : "brake-fluid-dot-5.1.jpg",
+            "description" : "Tečnost za kočnice DOT 5.1 poslednje generacije. Formulisano na bazi specijalno biranih baznih uja i aditiva koji zahteva najnoviji ABS system kočenja.",
+            "types" : ["FMVSS 116 DOT 5.1, DOT 4 &amp; DOT 3", "SAE J 1703", "ISO 4925 (5.1, 4 &amp; 3)"]
+        },
+        {
+            "title" : "SUNISO 3 GS",
+            "category" : "Ulja za rashladne sisteme",
+            "class" : "ulja-za-rashladne-sisteme",
+            "img" : "suniso-3-gs.jpg",
+            "description" : "Jedno do najcesce koriscenih ulja za rashladne sisteme u svetu. Napravljeno je od brizljivo odabranih naftnih baznih ulja posebnim metodoma rafiniranja. Za kompresore koji koriste rashladni fluid FREON R-12, R-22, R-502, R-717,R- 600A,R-290.",
+            "types" : ["HCFC/CFC - R-22/R- 12/R-502/R- 422D", "R-600a (Isobutane)", "R-717 - NH3 (Amonia)", "DIN 51503 - KAA - KC – KE"]
+        },
+        {
+            "title" : "SUNISO 4 GS0",
+            "category" : "Ulja za rashladne sisteme",
+            "class" : "ulja-za-rashladne-sisteme",
+            "img" : "suniso-4-gs.jpg",
+            "description" : "Jedno do najcesce koriscenih ulja za rashladne sisteme u svetu. Napravljeno je od brizljivo odabranih naftnih baznih ulja posebnim metodoma rafiniranja. Za kompresore koji koriste rashladni fluid FREON R-12, R-22, R-502, R-717,R- 600A,R-290.",
+            "types" : ["HCFC/CFC - R-22/R- 12/R-502/R- 422D", "R-600a (Isobutane)", "R-717 - NH3 (Amonia)", "DIN 51503 - KAA - KC - KE"]
+        },
+        {
+            "title" : "SUNISO SL",
+            "category" : "Ulja za rashladne sisteme",
+            "class" : "ulja-za-rashladne-sisteme",
+            "img" : "suniso-sl.jpg",
+            "description" : "SUNISO SL serija su 100% sintetička esterna ulja, formulisana na poliesterskoj bazi i aditivima koji obezbeđuju stabilnost i zaštitu od korozije. Ova ulja su odgovarajuća za različite rashlađivace kao sto je FREON R-134, R-404,R- 407C, R-410A,R- 507, R-509a/b na ekstremno niskim temperaturama.",
+            "types" : ["R-290 (Propane)", "HFC - R-134a/R- 404A/R-407C/R- 410A/R-507/R- 508B...", "R-245fa / R-236fa / R-227ea", "R-1270 (Propylene)", "HFO - 1234yf / R-448A / R-449A / R-452A / R-513", "DIN 51503 - KD - KE"]
+        },
+        {
+            "title" : "SUNICE PB 100",
+            "category" : "Ulja za rashladne sisteme",
+            "class" : "ulja-za-rashladne-sisteme",
+            "img" : "sunice-pb-100.jpg",
+            "description" : "100% sintetičko ulje na bazi polialkilen glikola namenjeno za rashladne sisteme (klima uređaje) koji zahtevaju R-134A freon.",
+            "types" : ["SANDEN compressors SD7H15/SHD, SD7H15/HD", "SD7H13, SD7H10, SD7B10,and SD5H14"]
+        },
+        {
+            "title" : "VACUUM PUMP OIL",
+            "category" : "Ulja za rashladne sisteme",
+            "class" : "ulja-za-rashladne-sisteme",
+            "img" : "vacuum-pump-oil.jpg",
+            "description" : "Specijalno ulje za podmazivanje visoko vakumskih pumpi koje rade sa apsolutnim pritiskom od 50 mikrona ( 0,05 torr).",
+            "types" : ["SAE 10W30"]
+        },
+        {
+            "title" : "2T MX POWER",
+            "category" : "Ulja za dvotaktne i četvorotaktne motore",
+            "class" : "ulja-za-dvotaktne-i-cetvorotktne-motore",
+            "img" : "2t-mx-power.jpg",
+            "description" : "Visoko kvalitetno mineralno motorno ulje za sve tipove vanbrodskih motora kao i za motorcikle koji imaju mogućnost samo-mešanja.. 2% MEŠAVINA.",
+            "types" : ["API TC", "JASO FC", "CEC TSC-3"]
+        }
+	],
+	"categories": [
+		{
+    		"title" : "Svi proizvodi",
+    		"class" : "*"
+    	},
+		{
+    		"title" : "Motorna ulja za putničke automobile i laka teretna vozila",
+    		"class" : ".motorna-ulja-za-putnicke-automobile-i-laka-teretna-vozila"
+    	},
+		{
+    		"title" : "Motorna ulja za teretni program i građevinsku mehanizaciju",
+    		"class" : ".motorna-ulja-za-teretni-program-i-gradjevinsku-mehanizaciju"
+    	},
+		{
+    		"title" : "Ulja za traktore i poljoprivrednu mehanizaciju",
+    		"class" : ".ulja-za-traktore-i-poljoprivrednu-mehanizaciju"
+    	},
+		{
+    		"title" : "Hidraulična ulja",
+    		"class" : ".hidraulicna-ulja"
+    	},
+		{
+    		"title" : "Industrijska ulja",
+    		"class" : ".industrijska-ulja"
+    	},
+		{
+    		"title" : "Masti",
+    		"class" : ".masti"
+    	},
+		{
+    		"title" : "Sprejevi",
+    		"class" : ".sprejevi"
+    	},
+		{
+    		"title" : "Transmisiona ulja",
+    		"class" : ".transmisiona-ulja"
+    	},
+		{
+    		"title" : "Ulja za automatske menjače i servo volane",
+    		"class" : ".ulja-za-automatske-menjace-i-servo-volane"
+    	},
+		{
+    		"title" : "Ulja za kočione sisteme",
+    		"class" : ".ulja-za-kocione-sisteme"
+    	},
+		{
+    		"title" : "Ulja za rashladne sisteme",
+    		"class" : ".ulja-za-rashladne-sisteme"
+    	},
+		{
+    		"title" : "Ulja za dvotaktne i četvorotaktne motore",
+    		"class" : ".ulja-za-dvotaktne-i-cetvorotktne-motore"
+    	}
+	]
+}

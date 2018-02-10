@@ -1,0 +1,1338 @@
+{
+	"piling rigs" : {
+		"image" : "piling-rigs.jpg",
+		"text" : "",
+		"products" : [
+			{
+				"title" : "B125 XP",
+				"img" : "B125XP-cover.jpg",
+				"docs": "B125XP.pdf",
+				"gallery" : ["B125xp-usa.jpg", "B125xp-usa-2.jpg", "B125xp-texsas.jpg", "B125xp-maldive.jpg", "B125xp-CFA-3.jpg", "B125xp-CFA-2.jpg", "B125xp-CFA-1.jpg", "B125xp-venezuela.jpg", "B125xp-1.jpg"],
+				"gallery-thumbs" : ["B125xp-usa-198x300.jpg", "B125xp-usa-2-233x300.jpg", "B125xp-texsas-300x225.jpg", "B125xp-maldive-225x300.jpg", "B125xp-CFA-3-300x207.jpg", "B125xp-CFA-2-225x300.jpg", "B125xp-CFA-1-300x225.jpg", "B125xp-venezuela-184x300.jpg", "B125xp-1-300x225.jpg"],
+				"video" : ["B125XP.mp4"],
+				"video-thumbs" : ["B125XP-poster.jpg"],
+				"video-text" : ["Year: 2014"],
+				"spec" : {
+					"Max depth" : "50 m",
+					"Max diameter" : "1500 mm",
+					"Max depth C.F.A." : "23 m",
+					"Max diameter C.F.A." : "800 mm",
+					"Engine power" : "164 kW",
+					"Width of crawler" : "2500 &divide; 3700 mm",
+					"Shoes width" : "600 mm",
+					"Main winch" : {
+						"Line pull" : "160 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "70 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "148 kN",
+						"Crowd force" : "114 kN",
+						"Stroke" : "3800 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "125 kNm",
+						"Drilling speed" : "33 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "37000 kg"
+					}
+				}
+			},
+			{
+				"title" : "B160 XP",
+				"img" : "Casagrande-B160XP-piling-rig.jpg",
+				"docs": "Casagrande-B160XP.pdf",
+				"gallery" : ["Casagrande-B160XP-piling-rig.jpg", "Casagrande-B160XP-piling-rig-4.jpg", "Casagrande-B160XP-piling-rig-1.jpg", "Casagrande-B160XP-piling-rig-3.jpg", "Casagrande-B160XP-piling-rig-2.jpg"],
+				"gallery-thumbs" : ["Casagrande-B160XP-piling-rig-152x202.jpg", "Casagrande-B160XP-piling-rig-4-269x202.jpg", "Casagrande-B160XP-piling-rig-1-135x202.jpg", "Casagrande-B160XP-piling-rig-3-269x202.jpg", "Casagrande-B160XP-piling-rig-2-269x202.jpg"],
+				"video" : [],
+				"spec" : {
+					"Max depth" : "50 m",
+					"Max diameter" : "1500 mm",
+					"Max depth C.F.A." : "23 m",
+					"Max diameter C.F.A." : "800 mm",
+					"Engine power" : "164 kW",
+					"Width of crawler" : "2500 &divide; 3700 mm",
+					"Shoes width" : "600 mm",
+					"Main winch" : {
+						"Line pull" : "160 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "70 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "205 kN",
+						"Crowd force" : "140 kN",
+						"Stroke" : "5200 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "160 kNm",
+						"Drilling speed" : "33 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "42000 kg"
+					}
+				}
+			},
+			{
+				"title" : "B175 XP",
+				"img" : "B175XP-cover.jpg",
+				"docs": "casagrande-B175XP-webedition.pdf",
+				"gallery" : ["B175XP-cover.jpg", "B175XP-AKCIN.jpg", "B175xp-Turkey.jpg", "B175XP-Turkey-1.jpg", "B175XP-CFA-UK.jpg", "B175XP-CFA-Italy.jpg"],
+				"gallery-thumbs" : ["B175XP-cover-233x300.jpg", "B175XP-AKCIN-202x300.jpg", "B175xp-Turkey-169x300.jpg", "B175XP-Turkey-1-225x300.jpg", "B175XP-CFA-UK-199x300.jpg", "B175XP-CFA-Italy-225x300.jpg"],
+				"video" : [],
+				"spec" : {
+					"Max depth" : "57 m",
+					"Max diameter" : "1500 mm",
+					"Max depth C.F.A." : "23 m",
+					"Max diameter C.F.A." : "900 mm",
+					"Engine power" : "194 kW",
+					"Width of crawler" : "2500 &divide; 3700 mm",
+					"Shoes width" : "600 mm",
+					"Main winch" : {
+						"Line pull" : "160 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "70 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "148 kN",
+						"Crowd force" : "114 kN",
+						"Stroke" : "3800 mm"
+					},
+					"Crowd – winch" : {
+						"Extraction force" : "240 kN",
+						"Crowd force" : "240 kN",
+						"Stroke" : "12930 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "160 kNm",
+						"Drilling speed" : "32 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "41000 kg"
+					}
+				}
+			},
+			{
+				"title" : "B200 XP",
+				"img" : "B200XP-cover.jpg",
+				"docs": "Casagrande-B200XP-Piling-Rig.pdf",
+				"gallery" : ["B200XP-SriLanka.jpg", "B200XP-slovenia.jpg", "B200XP-Moscow.jpg", "B200XP-CFA-usa.jpg", "B200XP-CFA-peru.jpg", "B200XP-a.jpg", "B200xp-mexico.jpg"],
+				"gallery-thumbs" : ["B200XP-SriLanka-225x300.jpg", "B200XP-slovenia-300x206.jpg", "B200XP-Moscow-225x300.jpg", "B200XP-CFA-usa-225x300.jpg", "B200XP-CFA-peru-225x300.jpg", "B200xp-mexico-300x178.jpg"],
+				"video" : [],
+				"spec" : {
+					"Max depth" : "67 m",
+					"Max diameter" : "2200 mm",
+					"Max depth C.F.A." : "26 m",
+					"Max diameter C.F.A." : "1000 mm",
+					"Engine power" : "227 kW",
+					"Width of crawler" : "2500 &divide; 3900 mm",
+					"Shoes width" : "700 mm",
+					"Main winch" : {
+						"Line pull" : "240 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "83 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "260 kN",
+						"Crowd force" : "160 kN",
+						"Stroke" : "6000 mm"
+					},
+					"Crowd – winch" : {
+						"Extraction force" : "280 kN",
+						"Crowd force" : "280 kN",
+						"Stroke" : "13700 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "210 kNm",
+						"Drilling speed" : "34 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "63000 kg"
+					}
+				}
+			},
+			{
+				"title" : "B250 XP",
+				"img" : "Casagrande-B250XP2-piling-rig-01.jpg",
+				"docs": "Casagrande-B250XP2-piling-rig.pdf",
+				"gallery" : ["Casagrande-B250XP2-piling-rig-3.jpg", "Casagrande-B250XP2-piling-rig-1.jpg", "Casagrande-B250XP2-piling-rig-4.jpg"],
+				"gallery-thumbs" : ["Casagrande-B250XP2-piling-rig-3-152x202.jpg", "Casagrande-B250XP2-piling-rig-1-152x202.jpg", "Casagrande-B250XP2-piling-rig-4-152x202.jpg"],
+				"video" : [],
+				"spec" : {
+					"Max depth" : "78 m",
+					"Max diameter" : "2000 mm",
+					"Max depth C.F.A." : "29 m",
+					"Max diameter C.F.A." : "1200 mm",
+					"Engine power" : "336 kW",
+					"Width of crawler" : "3000 &divide; 4500 mm",
+					"Shoes width" : "900 mm",
+					"Main winch" : {
+						"Line pull" : "270 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "96 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "350 kN",
+						"Crowd force" : "220 kN",
+						"Stroke" : "6500 mm"
+					},
+					"Crowd – winch" : {
+						"Extraction force" : "400 kN",
+						"Crowd force" : "330 kN",
+						"Stroke" : "15000 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "263 kNm",
+						"Drilling speed" : "39 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "83000 kg"
+					}
+				}
+			},
+			{
+				"title" : "B275 XP",
+				"img" : "Casagrande-B275XP2-piling-rig.jpg",
+				"docs": "Casagrande-B275XP2-piling-rig.pdf",
+				"gallery" : ["Casagrande-B275XP2-piling-rig-0.jpg", "Casagrande-B275XP2-piling-rig-00.jpg", "Casagrande-B275XP2-piling-rig-1.jpg", "Casagrande-B275XP2-piling-rig-2.jpg", "Casagrande-B275XP2-piling-rig-3.jpg"],
+				"gallery-thumbs" : ["Casagrande-B275XP2-piling-rig-0-141x202.jpg", "Casagrande-B275XP2-piling-rig-00-269x202.jpg", "Casagrande-B275XP2-piling-rig-1-135x202.jpg", "Casagrande-B275XP2-piling-rig-2-140x202.jpg", "Casagrande-B275XP2-piling-rig-3-140x202.jpg"],
+				"video" : [],
+				"spec" : {
+					"Max depth" : "78 m",
+					"Max diameter" : "2000 mm",
+					"Max depth C.F.A." : "29 m",
+					"Max diameter C.F.A." : "1200 mm",
+					"Engine power" : "336 kW",
+					"Width of crawler" : "3000 &divide; 4500 mm",
+					"Shoes width" : "900 mm",
+					"Main winch" : {
+						"Line pull" : "270 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "96 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "350 kN",
+						"Crowd force" : "220 kN",
+						"Stroke" : "6500 mm"
+					},
+					"Crowd – winch" : {
+						"Extraction force" : "400 kN",
+						"Crowd force" : "330 kN",
+						"Stroke" : "15000 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "300 kNm",
+						"Drilling speed" : "29 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "90000 kg"
+					}
+				}
+			},
+			{
+				"title" : "B300 XP",
+				"img" : "B300xp-cover-Quatar.jpg",
+				"docs": "B300XP.pdf",
+				"gallery" : ["B300xp-CFA-brazil.jpg", "B300xp-CFA-canada.jpg", "B300xp-CFA-sri-lanka-2.jpg", "B300xp-CFA-sri-lanka.jpg", "B300xp-Quatar.jpg", "B300xp-usa.jpg"],
+				"gallery-thumbs" : ["B300xp-CFA-brazil-225x300.jpg", "B300xp-CFA-canada-225x300.jpg", "B300xp-CFA-sri-lanka-2-300x227.jpg", "B300xp-CFA-sri-lanka-300x225.jpg", "B300xp-Quatar-300x224.jpg", "B300xp-usa-225x300.jpg"],
+				"video" : [],
+				"spec" : {
+					"Max depth" : "90 m",
+					"Max diameter" : "2500 mm",
+					"Max depth C.F.A." : "29 m",
+					"Max diameter C.F.A." : "1200 mm",
+					"Engine power" : "403 kW",
+					"Width of crawler" : "3000 &divide; 4480 mm",
+					"Shoes width" : "900 mm",
+					"Main winch" : {
+						"Line pull" : "270 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "134 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "400 kN",
+						"Crowd force" : "250 kN",
+						"Stroke" : "7000 mm"
+					},
+					"Crowd – winch" : {
+						"Extraction force" : "400 kN",
+						"Crowd force" : "400 kN",
+						"Stroke" : "19000 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "300 kNm",
+						"Drilling speed" : "29 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "90000 kg"
+					}
+				}
+			},
+			{
+				"title" : "B360 XP",
+				"img" : "B360XP-cover-montreal.jpg",
+				"docs": "casagrande-B360XP-webedition.pdf",
+				"gallery" : ["B360XP-CFA-xl-LONDON-2.jpg", "B360XP-CFA-xl-LONDON.jpg", "B360XP-london-v.jpg", "B360XP-london.jpg", "B360XP-canada.jpg"],
+				"gallery-thumbs" : ["B360XP-CFA-xl-LONDON-2-200x300.jpg", "B360XP-CFA-xl-LONDON-225x300.jpg", "B360XP-london-v-200x300.jpg", "B360XP-london-300x200.jpg", "B360XP-canada-300x217.jpg"],
+				"video" : ["Casagrande-B360-Bored-Blu.mp4"],
+				"video-thumbs" : ["Casagrande-B360-Bored-Blu-poster-300x161.jpg"],
+				"video-text" : ["Year: 2015"],
+				"spec" : {
+					"Max depth" : "89,3 m",
+					"Max diameter" : "3000 mm",
+					"Max depth C.F.A." : "29,5 m",
+					"Max diameter C.F.A." : "1200 mm",
+					"Engine power" : "403 kW",
+					"Width of crawler" : "3500 &divide; 5000 mm",
+					"Shoes width" : "1000 mm",
+					"Main winch" : {
+						"Line pull" : "360 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "140 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "400 kN",
+						"Crowd force" : "250 kN",
+						"Stroke" : "7000 mm"
+					},
+					"Crowd – winch" : {
+						"Extraction force" : "600 kN",
+						"Crowd force" : "600 kN",
+						"Stroke" : "19000 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "400 kNm",
+						"Drilling speed" : "25 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "115000 kg"
+					}
+				}
+			},
+			{
+				"title" : "C30",
+				"img" : "Casagrande-C30-Piling-Rig.jpg",
+				"docs": "Casagrande-C30-Piling-Rig.pdf",
+				"gallery" : [],
+				"gallery-thumbs" : [],
+				"video" : [],
+				"spec" : {
+					"Max depth" : "42,3 m",
+					"Max diameter" : "1200 mm",
+					"Max depth C.F.A." : "19,8 m",
+					"Max diameter C.F.A." : "800 mm",
+					"Engine power" : "168 kW",
+					"Width of crawler" : "2500 &divide; 3700 mm",
+					"Shoes width" : "600 mm",
+					"Main winch" : {
+						"Line pull" : "150 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "70 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "140 kN",
+						"Crowd force" : "90 kN",
+						"Stroke" : "3500 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "125 kNm",
+						"Drilling speed" : "33 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "35000 kg"
+					}
+				}					
+			},
+			{
+				"title" : "C35",
+				"img" : "Casagrande-C35-Piling-Rig.jpg",
+				"docs": "Casagrande-C35-Piling-Rig.pdf",
+				"gallery" : [],
+				"gallery-thumbs" : [],
+				"video" : [],
+				"spec" : {
+					"Max depth" : "50 m",
+					"Max diameter" : "1500 mm",
+					"Max depth C.F.A." : "22,6 m",
+					"Max diameter C.F.A." : "800 mm",
+					"Engine power" : "164 kW",
+					"Width of crawler" : "2500 &divide; 3700 mm",
+					"Shoes width" : "600 mm",
+					"Main winch" : {
+						"Line pull" : "160 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "70 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "160 kN",
+						"Crowd force" : "120 kN",
+						"Stroke" : "3800 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "135 kNm",
+						"Drilling speed" : "30 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "39700 kg"
+					}
+				}					
+			},
+			{
+				"title" : "C40",
+				"img" : "Casagrande-C40-Piling-Rig.jpg",
+				"docs": "Casagrande-C40-Piling-Rig.pdf",
+				"gallery" : [],
+				"gallery-thumbs" : [],
+				"video" : [],
+				"spec" : {
+					"Max depth" : "50 m",
+					"Max diameter" : "1500 mm",
+					"Max depth C.F.A." : "22,6 m",
+					"Max diameter C.F.A." : "800 mm",
+					"Engine power" : "194 kW",
+					"Width of crawler" : "2500 &divide; 3700 mm",
+					"Shoes width" : "600 mm",
+					"Main winch" : {
+						"Line pull" : "160 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "70 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "160 kN",
+						"Crowd force" : "130 kN",
+						"Stroke" : "3800 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "177 kNm",
+						"Drilling speed" : "32 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "41800 kg"
+					}
+				}					
+			}
+		]
+	},
+	"cfa piling rigs" : {
+		"image" : "cfa-piling-rigs.jpg",
+		"text" : "",
+		"products" : [
+			{
+				"title" : "B125 XP – CFA Piling rig",
+				"img" : "B125xp-CFA-2.jpg",
+				"docs": "B125XP.pdf",
+				"gallery" : ["B125xp-texsas.jpg", "B125xp-maldive.jpg", "B125xp-1.jpg", "B125xp-venezuela.jpg", "B125xp-CFA-1.jpg", "B125xp-CFA-3.jpg", "B125xp-usa-2.jpg", "B125xp-usa.jpg", "B125XP-cover.jpg"],
+				"gallery-thumbs" : ["B125xp-texsas-300x225.jpg", "B125xp-maldive-225x300.jpg", "B125xp-1-300x225.jpg", "B125xp-venezuela-184x300.jpg", "B125xp-CFA-1-300x225.jpg", "B125xp-CFA-3-300x207.jpg", "B125xp-usa-2-233x300.jpg", "B125xp-usa-198x300.jpg", "B125XP-cover-200x300.jpg"],
+				"video" : [],
+				"spec" : {
+					"Max depth C.F.A." : "23 m",
+					"Max diameter C.F.A." : "800 mm",
+					"Engine power" : "164 kW",
+					"Width of crawler" : "2500 &divide; 3700 mm",
+					"Shoes width" : "600 mm",
+					"Main winch" : {
+						"Line pull" : "160 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "70 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "148 kN",
+						"Crowd force" : "114 kN",
+						"Stroke" : "3800 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "125 kNm",
+						"Drilling speed" : "33 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "37000 kg"
+					}
+				}
+			},
+			{
+				"title" : "B175 XP – CFA Piling rig",
+				"img" : "B175XP-CFA-Italy.jpg",
+				"docs": "Casagrande-B175XP-CFA.pdf",
+				"gallery" : ["B175XP-004.jpg", "B175XP-003.jpg", "B175XP-002.jpg", "B175XP-NewYork.jpg", "B175XP-006.jpg", "B175XP-005.jpg"],
+				"gallery-thumbs" : ["B175XP-004-204x300.jpg", "B175XP-003-217x300.jpg", "B175XP-002-225x300.jpg", "B175XP-NewYork-233x300.jpg", "B175XP-006-223x300.jpg", "B175XP-005-225x300.jpg"],
+				"video" : [],
+				"spec" : {
+					"Max depth C.F.A." : "25,5 m",
+					"Max diameter C.F.A." : "900 mm",
+					"Engine power" : "194 kW",
+					"Width of crawler" : "2500 &divide; 3700 mm",
+					"Shoes width" : "600 mm",
+					"Main winch" : {
+						"Line pull" : "160 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "70 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "148 kN",
+						"Crowd force" : "114 kN",
+						"Stroke" : "3800 mm"
+					},
+					"Crowd – winch" : {
+						"Extraction force" : "240 kN",
+						"Crowd force" : "240 kN",
+						"Stroke" : "12930 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "175 kNm",
+						"Drilling speed" : "32 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "41000 kg"
+					}
+				}
+			},
+			{
+				"title" : "B200 XP – CFA Piling rig",
+				"img" : "B200XP-CFA-usa.jpg",
+				"docs": "Casagrande-B200XP-CFA.pdf",
+				"gallery" : ["B200XP-SriLanka.jpg", "B200XP-slovenia.jpg", "B200XP-Moscow.jpg", "B200XP-CFA-peru.jpg", "B200XP-a.jpg", "B200xp-mexico.jpg", "B200XP-cover.jpg"],
+				"gallery-thumbs" : ["B200XP-SriLanka-225x300.jpg", "B200XP-slovenia-300x206.jpg", "B200XP-Moscow-225x300.jpg", "B200XP-CFA-peru-225x300.jpg", "B200XP-a-209x300.jpg", "B200xp-mexico-300x178.jpg", "B200XP-cover-225x300.jpg"],
+				"video" : [],
+				"spec" : {
+					"Max depth C.F.A." : "26 m",
+					"Max diameter C.F.A." : "1000 mm",
+					"Engine power" : "227 kW",
+					"Width of crawler" : "2500 &divide; 3900 mm",
+					"Shoes width" : "700 mm",
+					"Main winch" : {
+						"Line pull" : "240 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "83 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "211 kN",
+						"Crowd force" : "123 kN",
+						"Stroke" : "6000 mm"
+					},
+					"Crowd – winch" : {
+						"Extraction force" : "280 kN",
+						"Crowd force" : "280 kN",
+						"Stroke" : "13700 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "210 kNm",
+						"Drilling speed" : "34 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "63000 kg"
+					}
+				}
+			},
+			{
+				"title" : "B250 XP2 – CFA Piling rig",
+				"img" : "Casagrande-B250XP2-CFA-piling-rig.jpg",
+				"docs": "Casagrande-B250XP2-CFA-piling-rig.pdf",
+				"gallery" : ["Casagrande-B250XP2-CFA-piling-rig-1.jpg", "Casagrande-B250XP2-CFA-piling-rig-2.jpg", "Casagrande-B250XP2-CFA-piling-rig-3.jpg"],
+				"gallery-thumbs" : ["Casagrande-B250XP2-CFA-piling-rig-1-132x202.jpg", "Casagrande-B250XP2-CFA-piling-rig-2-148x202.jpg", "Casagrande-B250XP2-CFA-piling-rig-3-147x202.jpg"],
+				"video" : [],
+				"spec" : {
+					"Max depth C.F.A." : "29 m",
+					"Max diameter C.F.A." : "1200 mm",
+					"Engine power" : "336 kW",
+					"Width of crawler" : "3000 &divide; 4500 mm",
+					"Shoes width" : "900 mm",
+					"Main winch" : {
+						"Line pull" : "270 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "96 kN"
+					},
+					"Extraction force" : {
+						"Nominal force" : "950 kN"
+					},
+					"Crowd force" : {
+						"Nominal force" : "110 kN"
+					},
+					"Rotary head" : {
+						"Torque" : "263 kNm",
+						"Drilling speed" : "39 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "83000 kg"
+					}
+				}
+			},
+			{
+				"title" : "B275 XP2 – CFA Piling rig",
+				"img" : "Casagrande-B275XP2-CFA-piling-rig.jpg",
+				"docs": "Casagrande-B275XP2-CFA-piling-rig.pdf",
+				"gallery" : ["Casagrande-B275XP2-CFA-piling-rig-1.jpg"],
+				"gallery-thumbs" : ["Casagrande-B275XP2-CFA-piling-rig-1-110x202.jpg"],
+				"video" : [],
+				"spec" : {
+					"Max depth C.F.A." : "29 m",
+					"Max diameter C.F.A." : "1200 mm",
+					"Engine power" : "336 kW",
+					"Width of crawler" : "3000 &divide; 4500 mm",
+					"Shoes width" : "900 mm",
+					"Main winch" : {
+						"Line pull" : "270 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "96 kN"
+					},
+					"Extraction force" : {
+						"Nominal force" : "950 kN"
+					},
+					"Crowd force" : {
+						"Nominal force" : "110 kN"
+					},
+					"Rotary head" : {
+						"Torque" : "300 kNm",
+						"Drilling speed" : "29 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "90000 kg"
+					}
+				}
+			},
+			{
+				"title" : "B300 XP – CFA Piling rig",
+				"img" : "B300xp-CFA-brazil.jpg",
+				"docs": "B300XP.pdf",
+				"gallery" : ["B300xp-CFA-sri-lanka.jpg", "B300xp-CFA-sri-lanka-2.jpg", "B300xp-CFA-canada.jpg", "B300xp-Quatar.jpg", "B300xp-usa.jpg", "B300XP-004.jpg"],
+				"gallery-thumbs" : ["B300xp-CFA-sri-lanka-300x225.jpg", "B300xp-CFA-sri-lanka-2-300x227.jpg", "B300xp-CFA-canada-225x300.jpg", "B300xp-Quatar-300x224.jpg", "B300xp-usa-225x300.jpg", "B300XP-004-300x224.jpg"],
+				"video" : [],
+				"spec" : {
+					"Max depth C.F.A." : "29 m",
+					"Max diameter C.F.A." : "1200 mm",
+					"Engine power" : "403 kW",
+					"Width of crawler" : "3000 &divide; 4480 mm",
+					"Shoes width" : "900 mm",
+					"Main winch" : {
+						"Line pull" : "270 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "134 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "400 kN",
+						"Crowd force" : "250 kN",
+						"Stroke" : "7000 mm"
+					},
+					"Crowd – winch" : {
+						"Extraction force" : "400 kN",
+						"Crowd force" : "400 kN",
+						"Stroke" : "19000 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "300 kNm",
+						"Drilling speed" : "29 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "90000 kg"
+					}
+				}
+			},
+			{
+				"title" : "B360 XP – CFA Piling rig",
+				"img" : "B360XP-CFA-xl-LONDON-2.jpg",
+				"docs": "Casagrande-B360XP-CFA.pdf",
+				"gallery" : ["B360XP-CFA-xl-LONDON.jpg", "B360XP-london-v.jpg", "B360XP-london.jpg", "B360XP-canada.jpg", "B360XP-cover-montreal.jpg"],
+				"gallery-thumbs" : ["B360XP-CFA-xl-LONDON-225x300.jpg", "B360XP-london-v-200x300.jpg", "B360XP-london-300x200.jpg", "B360XP-canada-300x217.jpg", "B360XP-cover-montreal-225x300.jpg"],
+				"video" : ["Casagrande-B360-CFA-Rossa.mp4"],
+				"video-thumbs" : ["Casagrande-B360-CFA-Rossa-poster-300x161.jpg"],
+				"video-text" : ["Year: 2015"],
+				"spec" : {
+					"Max depth C.F.A." : "34 m",
+					"Max diameter C.F.A." : "1200 mm",
+					"Engine power" : "403 kW",
+					"Width of crawler" : "3500 &divide; 5000 mm",
+					"Shoes width" : "1000 mm",
+					"Main winch" : {
+						"Line pull" : "360 kN"
+					},
+					"Auxiliary winch" : {
+						"Line pull" : "140 kN"
+					},
+					"Crowd – ram" : {
+						"Extraction force" : "400 kN",
+						"Crowd force" : "250 kN",
+						"Stroke" : "7000 mm"
+					},
+					"Crowd – winch" : {
+						"Extraction force" : "600 kN",
+						"Crowd force" : "600 kN",
+						"Stroke" : "19000 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "400 kNm",
+						"Drilling speed" : "25 rpm"
+					},
+					"Weight" : {
+						"Weight in working condition" : "115000 kg"
+					}
+				}
+			}		
+		]
+	},
+	"diaphragm wall" : {
+		"image" : "diaphragm-wall.jpg",
+		"text" : "",
+		"products" : [
+			{
+				"title" : "KRC1-B125XP Diaphragm wall",
+				"img" : "COVER-B125XP-KRC1.jpg",
+				"docs": "KRC1-B125xp.pdf",
+				"gallery" : ["KRC1-B125XP-002.jpg", "KRC1-B125XP-003.jpg"],
+				"gallery-thumbs" : ["KRC1-B125XP-002-227x300.jpg", "KRC1-B125XP-003-225x300.jpg"],
+				"video" : ["B125XP.mp4"],
+				"video-thumbs" : ["B125XP-poster-300x161.jpg"],
+				"video-text" : ["Year: 2015"],
+				"spec" : {
+					"Depth of excavation" : "30 m",
+					"Width of trench" : "400 &divide; 800 mm",
+					"Lenght of trench" : "2200 &divide; 2500 mm",
+					"Kelly rotation" : "&plusmn; 45&deg;",
+					"Weight in working condition" : "40000 kg"
+				}
+			},
+			{
+				"title" : "KRC2-C400XP Diaphragm wall",
+				"img" : "COVER-KRC2-on-C400XP.jpg",
+				"docs": "KRC2-B200xp.pdf",
+				"gallery" : ["KRC2-on-C400XP-a.jpg", "KRC2-on-C400XP-b.jpg", "KRC2-on-C400XP-c.jpg", "KRC2-on-C400XP-d.jpg", "KRC2-on-C400XP-e.jpg", "KRC2-on-C400XP-f.jpg"],
+				"gallery-thumbs" : ["KRC2-on-C400XP-a-300x225.jpg", "KRC2-on-C400XP-b-300x225.jpg", "KRC2-on-C400XP-c-225x300.jpg", "KRC2-on-C400XP-d-200x300.jpg", "KRC2-on-C400XP-e-200x300.jpg", "KRC2-on-C400XP-f-200x300.jpg"],
+				"video" : [],
+				"spec" : {
+					"Depth of excavation" : "35 m",
+					"Width of trench" : "400 &divide; 1500 mm",
+					"Lenght of trench" : "2200 &divide; 3000 mm",
+					"Kelly rotation" : "&plusmn; 90&deg;",
+					"Weight in working condition" : "62000 kg"
+				}
+			},
+			{
+				"title" : "KRC2HD-B250XP Diaphragm wall",
+				"img" : "COVER-KRC2-HD_B250XP.jpg",
+				"docs": "KRC2-B250xp.pdf",
+				"gallery" : ["KRC2-HD_B250XP-a.jpg", "KRC2-HD_B250XP-b.jpg", "KRC2-HD_B250XP-d.jpg"],
+				"gallery-thumbs" : ["KRC2-HD_B250XP-a-300x225.jpg", "KRC2-HD_B250XP-b-300x225.jpg", "KRC2-HD_B250XP-d-300x225.jpg"],
+				"video" : [],
+				"spec" : {
+					"Depth of excavation" : "35 m",
+					"Width of trench" : "400 &divide; 1500 mm",
+					"Lenght of trench" : "2200 &divide; 3000 mm",
+					"Kelly rotation" : "&plusmn; 90&deg;",
+					"Weight in working condition" : "78000 kg"
+				}
+			},
+			{
+				"title" : "KRC2HD-B300XP Diaphragm wall",
+				"img" : "COVER-KRC2HD_B300XP-1.jpg",
+				"docs": "KRC2-B300xp.pdf",
+				"gallery" : ["KRC2HD_B300XP-1.jpg", "KRC2HD_B300XP-2.jpg", "KRC2HD_B300XP-4.jpg", "KRC2HD_B300XP-5.jpg", "KRC2HD_B300XP-6.jpg"],
+				"gallery-thumbs" : ["KRC2HD_B300XP-1-300x226.jpg", "KRC2HD_B300XP-2-225x300.jpg", "KRC2HD_B300XP-4-300x229.jpg", "KRC2HD_B300XP-5-300x201.jpg", "KRC2HD_B300XP-6-225x300.jpg"],
+				"video" : [],
+				"spec" : {
+					"Depth of excavation" : "46 m",
+					"Width of trench" : "400 &divide; 1500 mm",
+					"Lenght of trench" : "2200 &divide; 3000 mm",
+					"Kelly rotation" : "&plusmn; 90&deg;",
+					"Weight in working condition" : "85000 kg"
+				}
+			},
+			{
+				"title" : "KG25 Diaphragm wall",
+				"img" : "COVER-KG25.jpg",
+				"docs": "casagrande-KG25-webedition.pdf",
+				"gallery" : ["KG25-FRANCE-2.jpg", "KG25-FRANCE.jpg", "KG25-ISRAEL.jpg", "KG25-low-headroom.jpg", "KG25-SERBIA-2.jpg", "KG25-SERBIA.jpg"],
+				"gallery-thumbs" : ["KG25-FRANCE-2-225x300.jpg", "KG25-FRANCE-194x300.jpg", "KG25-ISRAEL-300x263.jpg", "KG25-low-headroom-202x300.jpg", "KG25-SERBIA-2-225x300.jpg", "KG25-SERBIA-300x190.jpg"],
+				"video" : [],
+				"spec" : {
+					"Depth of excavation" : "50 m (80 m optional)",
+					"Width of trench" : "500 &divide; 1500 mm",
+					"Lenght of trench" : "2500 &divide; 3200 mm",
+					"Weight in working condition without grab" : "68500 kg"
+				}
+			},
+			{
+				"title" : "G-SERIES HYDRAULIC GRAB",
+				"img" : "COVER-G-hyraulic-grab.jpg",
+				"docs": "G-series-hydraulic-grab.pdf",
+				"gallery" : ["G-hyraulic-grab-1.jpg", "G-hyraulic-grab-2.jpg", "G-hyraulic-grab-3.jpg"],
+				"gallery-thumbs" : ["G-hyraulic-grab-1-225x300.jpg", "G-hyraulic-grab-2-200x300.jpg", "G-hyraulic-grab-3-200x300.jpg"],
+				"video" : [],
+				"spec" : {
+					"G2500" :{
+						"Jaws width" : "480 &divide; 1480 mm",
+						"Capacity" : "0,63 &divide; 2,25 m&sup3;",
+						"Grab weight" : "13600 &divide; 18700 kgm"
+					},
+					"G2800" :{
+						"Jaws width" : "480 &divide; 1480 mm",
+						"Capacity" : "0,72 &divide; 2,63 m&sup3;",
+						"Grab weight" : "14300 &divide; 19800 kg"
+					},
+					"G3000" : {
+						"Jaws width" : "480 &divide; 1480 mm",
+						"Capacity" : "0,85 &divide; 3,04 m&sup3;",
+						"Grab weight" : "14400 &divide; 20500 kg"
+					},
+					"G3200" : {
+						"Jaws width" : "480 &divide; 1480 mm",
+						"Capacity" : "0,98 &divide; 3,48 m&sup3;",
+						"Grab weight" : "14700 &divide; 21200 kg"
+					}
+				}
+			},
+			{
+				"title" : "PM MECHANICAL GRAB",
+				"img" : "COVER-PM-mechanical-grab.jpg",
+				"docs": "PM-mechanical-grabs.pdf",
+				"gallery" : ["PM-mechanical-grab-1.jpg", "PM-mechanical-grab-2.jpg"],
+				"gallery-thumbs" : ["PM-mechanical-grab-1-212x300.jpg", "PM-mechanical-grab-2-200x300.jpg"],
+				"video" : [],
+				"spec" : {
+					"Jaws opening" : "2500 &divide; 3000 mm",
+					"Width of jaw" : "600 &divide; 1200 mm",
+					"Weight of grab" : "8150 &divide; 11200 kg"
+				}
+			}
+		]
+	},
+	"hydromills" : {
+		"image" : "hydromills.jpg",
+		"text" : "",
+		"products" : [
+			{
+				"title" : "FD60",
+				"img" : "COVER-FD60-hydromill.jpg",
+				"docs": "Casagrande_Hydromills_FD60_FD100.pdf",
+				"gallery" : ["FD60-hydromills-100m_50-m-BRAZIL.jpg", "FD60-hydromills-China.jpg", "FD60-hydromills-Doha.jpg", "FD60-hydromills-Italy.jpg", "FD60-hydromills-Qatar.jpg", "FD60-hydromills-zBrazil.jpg"],
+				"gallery-thumbs" : ["FD60-hydromills-100m_50-m-BRAZIL-300x200.jpg", "FD60-hydromills-China-200x300.jpg", "FD60-hydromills-Doha-300x240.jpg", "FD60-hydromills-Italy-300x200.jpg", "FD60-hydromills-Qatar-300x225.jpg", "FD60-hydromills-zBrazil-226x300.jpg"],
+				"video" : ["c900ng-quatar.mp4"],
+				"video-thumbs" : ["c900ng-quatar-poster.jpg"],
+				"video-text" : ["Hydromill FD60 on C900"],
+				"spec" : {
+					"Depth of excavation" : "100 mm",
+					"Width of trench" : "700 &divide; 1200 mm",
+					"Lenght of trench" : "3150 mm",
+					"Torque at the wheel axle" : "2 x 67 kNm",
+					"Wheel speed" : "0 &divide; 31 rpm",
+					"Capacity of mud pump" : "450 m&sup3;/h",
+					"Mill weight" : "33000 kg"
+				}
+			},
+			{
+				"title" : "FD100",
+				"img" : "COVER-FD100-on-crane.jpg",
+				"docs": "Casagrande_Hydromills_FD60_FD100.pdf",
+				"gallery" : ["FD100-on-Crane-Boston.jpg", "FD100-on-Crane-Jeddha.jpg", "FD100-on-Crane-Jeddha2.jpg", "FD100-on-Crane-SaudiArabia.jpg", "FD100-on-Crane_Boston.jpg", "FD100-on-Crane_Boston2.jpg"],
+				"gallery-thumbs" : ["FD100-on-Crane-Boston-188x300.jpg", "FD100-on-Crane-Jeddha-232x300.jpg", "FD100-on-Crane-Jeddha2-300x200.jpg", "FD100-on-Crane-SaudiArabia-300x225.jpg", "FD100-on-Crane_Boston-225x300.jpg", "FD100-on-Crane_Boston2-300x225.jpg"],
+				"video" : [],
+				"spec" : {
+					"Depth of excavation" : "100 mm",
+					"Width of trench" : "800 &divide; 1500 mm",
+					"Lenght of trench" : "3150 mm",
+					"Torque at the wheel axle" : "2 x 90 kNm",
+					"Wheel speed" : "0 &divide; 27 rpm",
+					"Capacity of mud pump" : "450 m&sup3;/h",
+					"Mill weight" : "52000 kg"
+				}
+			}
+		]
+	},
+	"crawler drills" : {
+		"image" : "crawler-drills.jpg",
+		"text" : "",
+		"products" : [
+			{
+				"title" : "C5 XP Crawler drill",
+				"img" : "C5xp-cover-Chile.jpg",
+				"docs": "casagrande-C5XP-webedition.pdf",
+				"gallery" : ["C5XP-Italy-2.jpg", "C5XP-Italy-3.jpg", "C5XP-Italy-sede.jpg", "C5XP-Italy.jpg", "C5XP-jet.jpg", "C5xp-jet_std.jpg"],
+				"gallery-thumbs" : ["C5XP-Italy-2-300x200.jpg", "C5XP-Italy-3-300x230.jpg", "C5XP-Italy-sede-300x225.jpg", "C5XP-Italy-300x217.jpg", "C5XP-jet-300x225.jpg", "C5xp-jet_std-226x300.jpg"],
+				"video" : ["C5XP-new.mp4"],
+				"video-thumbs" : ["C5XP-poster-1.jpg"],
+				"video-text" : [""],
+				"spec" : {
+					"Engine power" : "85 kW",
+					"Width of crawler" : "1600 mm",
+					"Mast" : {
+						"Stroke of rotary head" : "4000 &divide; 5000 mm",
+						"Extraction force" : "50 kN",
+						"Crowd force" : "50 kN"
+					},
+					"Clamps" : {
+						"Diameters" : "40 &divide; 254 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "10200 Nm",
+						"Drilling speed" : "56 &divide; 112 rpm"
+					},
+					"Weight in working condition" : "8500 kg"
+				}
+			},
+			{
+				"title" : "C6 XP Crawler drill",
+				"img" : "C6XP-cover.jpg",
+				"docs": "C6XP.pdf",
+				"gallery" : ["C6XP-1.jpg", "C6XP-canada.jpg", "C6XP-chile.jpg", "C6XP-italy-2.jpg", "C6XP-italy-3.jpg", "C6XP-italy.jpg", "C6XP-malysia.jpg", "C6XP-marghera.jpg", "C6XP-switzerland.jpg", "C6XP-turkey-2.jpg", "C6XP-turkey.jpg", "C6XP-UK.jpg"],
+				"gallery-thumbs" : ["C6XP-1-300x225.jpg", "C6XP-canada-300x200.jpg", "C6XP-chile-300x199.jpg", "C6XP-italy-2-300x225.jpg", "C6XP-italy-3-300x225.jpg", "C6XP-italy-300x225.jpg", "C6XP-malysia-300x207.jpg", "C6XP-marghera-300x225.jpg", "C6XP-switzerland-300x200.jpg", "C6XP-turkey-2-300x225.jpg", "C6XP-turkey-300x225.jpg", "C6XP-UK-300x225.jpg"],
+				"video" : ["c6XP-villesse-rimini.mp4", "C6XP-marghera.mp4"],
+				"video-thumbs" : ["c6XP-villesse-rimini-poster.jpg", "c6XP-marghera-poster-new.jpg"],
+				"video-text" : ["Year: 2012<br />Jobsite: Rimini and Villesse", "Year: 2012<br />Jobsite: Marghera (Italy)"],
+				"spec" : {
+					"Engine power" : "95 kW",
+					"Width of crawler" : "2250 mm",
+					"Mast" : {
+						"Stroke of rotary head" : "4000 &divide; 6700 mm",
+						"Extraction force" : "85 kN",
+						"Crowd force" : "85 kN"
+					},
+					"Clamps" : {
+						"Diameters" : "40 &divide; 254 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "15200 Nm",
+						"Drilling speed" : "52 &divide; 400 rpm"
+					},
+					"Weight in working condition" : "14000 kg"
+				}
+			},
+			{
+				"title" : "C6 XP2 Crawler drill",
+				"img" : "Casagrande-C6XP2-Hydraulic-Crawler-Drill.jpg",
+				"docs": "Casagrande-C6XP2-Crawler-Drill.pdf",
+				"gallery" : ["Casagrande-C6XP2-Crawler-Drill-1.jpg", "Casagrande-C6XP2-Crawler-Drill-2.jpg", "Casagrande-C6XP2-Crawler-Drill-3.jpg", "Casagrande-C6XP2-Crawler-Drill-5.jpg", "Casagrande-C6XP2-Crawler-Drill-4.jpg", "Casagrande-C6XP2-Crawler-Drill-6.jpg"],
+				"gallery-thumbs" : ["Casagrande-C6XP2-Crawler-Drill-1-257x202.jpg", "Casagrande-C6XP2-Crawler-Drill-2-131x202.jpg", "Casagrande-C6XP2-Crawler-Drill-3-297x202.jpg", "Casagrande-C6XP2-Crawler-Drill-5-308x202.jpg", "Casagrande-C6XP2-Crawler-Drill-4-299x202.jpg", "Casagrande-C6XP2-Crawler-Drill-6-334x202.jpg"],
+				"video" : [],
+				"spec" : {
+					"Engine power" : "119 kW",
+					"Width of crawler" : "2250 mm",
+					"Mast" : {
+						"Stroke of rotary head" : "4100 &divide; 7100 mm",
+						"Extraction force" : "85 kN",
+						"Crowd force" : "85 kN"
+					},
+					"Clamps" : {
+						"Diameters" : "40 &divide; 254 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "15200 Nm",
+						"Max drilling speed" : "400 rpm"
+					},
+					"Weight in working condition" : "15000 kg"
+				}
+			},
+			{
+				"title" : "C7 XP Crawler drill",
+				"img" : "C7XP-cover.jpg",
+				"docs": "casagrande-C7XP-webedition.pdf",
+				"gallery" : ["C7XP-01.jpg","C7XP-Casagrande-hydraulic-crawler-drill-backview.jpg", "C7XP-Casagrande-hydraulic-crawler-drill-sideview.jpg"],
+				"gallery-thumbs" : ["C7XP-01-225x300.jpg", "C7XP-Casagrande-hydraulic-crawler-drill-backview-300x225.jpg", "C7XP-Casagrande-hydraulic-crawler-drill-sideview-300x236.jpg"],
+				"video" : [],
+				"spec" : {
+					"Engine power" : "168 kW",
+					"Width of crawler" : "2500 mm",
+					"Mast" : {
+						"Stroke of rotary head" : "10000 mm",
+						"Extraction force" : "86,5 kN",
+						"Crowd force" : "86,5 kN"
+					},
+					"Clamps" : {
+						"Diameters" : "152 &divide; 508 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "55000 Nm",
+						"Max drilling speed" : "50 rpm"
+					},
+					"Weight in working condition" : "22000 kg"
+				}
+			},
+			{
+				"title" : "C8 XP2 Crawler drill",
+				"img" : "Casagrande-C8XP2-Hydraulic-Crawler-Drill.jpg",
+				"docs": "Casagrande-C8XP2-Hydraulic-Crawler-Drill.pdf",
+				"gallery" : ["Casagrande-C8XP2-Hydraulic-Crawler-Drill-0.jpg", "Casagrande-C8XP2-Hydraulic-Crawler-Drill-1.jpg", "Casagrande-C8XP2-Hydraulic-Crawler-Drill-2.jpg"],
+				"gallery-thumbs" : ["Casagrande-C8XP2-Hydraulic-Crawler-Drill-0-279x202.jpg", "Casagrande-C8XP2-Hydraulic-Crawler-Drill-1-146x202.jpg", "Casagrande-C8XP2-Hydraulic-Crawler-Drill-2-279x202.jpg"],
+				"video" : [],
+				"spec" : {
+					"Engine power" : "194 kW",
+					"Width of crawler" : "2500 mm",
+					"Mast" : {
+						"Stroke of rotary head" : "8000 | 10000 mm",
+						"Extraction force" : "86,5 kN",
+						"Crowd force" : "86,5 kN"
+					},
+					"Clamps" : {
+						"Diameters" : "90 &divide; 406 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "20000 Nm",
+						"Speed range" : "226 rpm"
+					},
+					"Weight in working condition" : "23000 kg"
+				}
+			},
+			{
+				"title" : "C9 XP Crawler drill",
+				"img" : "C9XP-cover.jpg",
+				"docs": "C9XP.pdf",
+				"gallery" : ["C9XP-usa-2.jpg", "C9XP-32-SINGLE-PASS.jpg"],
+				"gallery-thumbs" : ["C9XP-usa-2-225x300.jpg", "C9XP-32-SINGLE-PASS-300x225.jpg"],
+				"video" : [],
+				"spec" : {
+					"Engine power" : "194 kW",
+					"Width of crawler" : "2500 mm",
+					"Mast" : {
+						"Stroke of rotary head" : "10000 mm",
+						"Extraction force" : "150 kN",
+						"Crowd force" : "150 kN"
+					},
+					"Clamps" : {
+						"Diameters" : "152 &divide; 508 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "55000 Nm",
+						"Speed range" : "50 rpm"
+					},
+					"Weight in working condition" : "25000 kg"
+				}
+			},
+			{
+				"title" : "C10 XP2 Crawler drill",
+				"img" : "Casagrande-C10XP2-Crawler-Drill.jpg",
+				"docs": "Casagrande-C10XP2-Crawler-Drill.pdf",
+				"gallery" : ["Casagrande-C10XP2-Crawler-Drill-1.jpg", "Casagrande-C10XP2-Crawler-Drill-2.jpg", "Casagrande-C10XP2-Crawler-Drill-3.jpg"],
+				"gallery-thumbs" : ["Casagrande-C10XP2-Crawler-Drill-1-279x202.jpg", "Casagrande-C10XP2-Crawler-Drill-2-146x202.jpg", "Casagrande-C10XP2-Crawler-Drill-3-279x202.jpg"],
+				"video" : [],
+				"spec" : {
+					"Engine power" : "194 kW",
+					"Width of crawler" : "2500 mm",
+					"Mast" : {
+						"Stroke of rotary head" : "7760 | 10060 mm",
+						"Extraction force" : "94 kN",
+						"Crowd force" : "94 kN"
+					},
+					"Clamps" : {
+						"Diameters" : "89 &divide; 406 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "30000 Nm",
+						"Speed range" : "160 rpm"
+					},
+					"Weight in working condition" : "25000 kg"
+				}
+			},
+			{
+				"title" : "C12 XP2 Crawler drill",
+				"img" : "C12XP_2_Casagrande_Crawler_Drill-.jpg",
+				"docs": "Casagrande-C12XP2-Hydraulic-Crawler-Drill.pdf",
+				"gallery" : ["C12XP-2_Casagrande_Crawler_Drill-2.jpg", "C12XP-2_Casagrande_Crawler_Drill-1.jpg", "C12XP-2_Casagrande_Crawler_Drill-3.jpg", "C12XP-2_Casagrande_Crawler_Drill-6.jpg", "C12XP-2_Casagrande_Crawler_Drill-4-1.jpg", "C12XP-2_Casagrande_Crawler_Drill-5.jpg"],
+				"gallery-thumbs" : ["C12XP-2_Casagrande_Crawler_Drill-2-152x202", "C12XP-2_Casagrande_Crawler_Drill-1-114x202.jpg", "C12XP-2_Casagrande_Crawler_Drill-3-130x202.jpg", "C12XP-2_Casagrande_Crawler_Drill-6-269x202.jpg", "C12XP-2_Casagrande_Crawler_Drill-4-1-269x202.jpg", "C12XP-2_Casagrande_Crawler_Drill-5-269x202.jpg"],
+				"video" : [],
+				"spec" : {
+					"Engine power" : "194 kW",
+					"Width of crawler" : "2500 mm",
+					"Mast" : {
+						"Stroke of rotary head" : "14964 mm",
+						"Extraction force" : "94 kN",
+						"Crowd force" : "94 kN"
+					},
+					"Clamps" : {
+						"Diameters" : "152 &divide; 508 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "55000 Nm",
+						"Speed range" : "50 rpm"
+					},
+					"Weight in working condition" : "29000 kg"
+				}
+			},
+			{
+				"title" : "C16 XP Crawler drill",
+				"img" : "COVER-C16-XP.jpg",
+				"docs": "C16XP.pdf",
+				"gallery" : ["C16-XP-1.jpg", "C16-XP-1a.jpg", "C16-XP-2.jpg", "C16-XP-2a.jpg", "C16-XP-3.jpg", "C16-XP-4.jpg"],
+				"gallery-thumbs" : ["C16-XP-1-276x300.jpg", "C16-XP-1a-225x300.jpg", "C16-XP-2-177x300.jpg", "C16-XP-2a-300x253.jpg", "C16-XP-3-300x225.jpg", "C16-XP-4-300x225.jpg"],
+				"video" : [],
+				"spec" : {
+					"Engine power" : "190 kW",
+					"Width of crawler" : "2500 &divide; 3700 mm",
+					"Mast" : {
+						"Stroke of rotary head" : "16000 mm",
+						"Extraction force" : "150 kN",
+						"Crowd force" : "150 kN"
+					},
+					"Clamps" : {
+						"Diameters" : "89 &divide; 406 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "55000 Nm",
+						"Speed range" : "55 rpm"
+					},
+					"Weight in working condition" : "33000 kg"
+				}
+			}
+		]
+	},
+	"tunneling" : {
+		"image" : "tunneling.jpg",
+		"text" : "",
+		"products" : [
+			{
+				"title" : "PG185",
+				"img" : "COVER-PG185.jpg",
+				"docs": "Casagrande_tunneling_PG185.pdf",
+				"gallery" : ["PG185-7.jpg", "PG185-6.jpg", "PG185-5.jpg", "PG185-3.jpg", "PG185-2.jpg", "PG185-1.jpg"],
+				"gallery-thumbs" : ["PG185-7-300x225.jpg", "PG185-6-300x194.jpg", "PG185-5-300x195.jpg", "PG185-3-300x202.jpg", "PG185-2-300x173.jpg", "PG185-1-300x184.jpg"],
+				"video" : [],
+				"spec" : {
+					"Engine power" : "160 kW",
+					"Width of crawler" : "2460 mm",
+					"Mast" : {
+						"Stroke of rotary head" : "18000 mm",
+						"Extraction force" : "80 kN",
+						"Crowd force" : "80 kN"
+					},
+					"Clamps" : {
+						"Diameters" : "40 &divide; 254 mm"
+					},
+					"Rotary head" : {
+						"Torque" : "13500 Nm",
+						"Speed range" : "530 rpm"
+					},
+					"Weight in working condition" : "40000 kg"
+				}
+			}
+		]
+	},
+	"cranes" : {
+		"image" : "cranes.jpg",
+		"text" : "",
+		"products" : [
+			{
+				"title" : "C400 XP Crawler crane",
+				"img" : "casagrande-C400XP-cover.jpg",
+				"docs": "C400XP-webedition.pdf",
+				"gallery" : [],
+				"gallery-thumbs" : [],
+				"video" : [],
+				"spec" : {
+					"Lifting capacity" : "40000 kg | 3,9 m",
+					"Engine power" : "227 kW",
+					"Main winch" : "240 kN",
+					"Auxiliary winch" : "83 kN",
+					"Max boom length" : "30 m",
+					"Operating weight" : "44000 kg"
+				}
+			}
+		]
+	},
+	"stone columns" : {
+		"image" : "stone-columns.jpg",
+		"text" : "",
+		"products" : [
+			{
+				"title" : "S.C. – B175 XP Piling rig",
+				"img" : "COVER-Stone-Columns.jpg",
+				"docs": "casagrande-stone-columns-webedition.pdf",
+				"gallery" : ["B175-stone-columns5.jpg", "B175-stone-columns3.jpg", "B175-stone-columns2.jpg"],
+				"gallery-thumbs" : ["B175-stone-columns5-225x300.jpg", "B175-stone-columns3-236x300.jpg", "B175-stone-columns2-212x300.jpg"],
+				"video" : [],
+				"spec" : {
+					"Tool diameter" : "480 &divide; 550 mm",
+					"Final column diameter" : "600 &divide; 800 mm",
+					"Max. depth" : "11 m",
+					"Torque of rotary head" : "175 kNm",
+					"Diesel engine – power" : "194 kW",
+					"Weight of equipment" : "&#126; 43000 kg"
+				}
+			},
+			{
+				"title" : "S.C. – B200 XP Piling rig",
+				"img" : "COVER-Stone-Columns.jpg",
+				"docs": "casagrande-stone-columns-webedition.pdf",
+				"gallery" : ["B200-stone-columns6.jpg", "B200-stone-columns4.jpg"],
+				"gallery-thumbs" : ["B200-stone-columns6-300x245.jpg", "B200-stone-columns4-287x300.jpg"],
+				"video" : [],
+				"spec" : {
+					"Tool diameter" : "480 &divide; 620 mm",
+					"Final column diameter" : "600 &divide; 850 mm",
+					"Max. depth" : "13,5 m",
+					"Torque of rotary head" : "210 kNm",
+					"Diesel engine – power" : "239 kW",
+					"Weight of equipment" : "&#126; 64000 kg"
+				}
+			}		
+		]
+	},	
+	"multi function rig" : {
+		"image" : "multi-function-rig.jpg",
+		"text" : "",
+		"products" : [
+			{
+				"title" : "BASE CARRIER",
+				"img" : "V1619-BASE-CARRIER-072016.jpg",
+				"docs": "V16-19-UK-IT.pdf",
+				"gallery" : [],
+				"gallery-thumbs" : [],
+				"video" : [],
+				"spec" : {
+					"Undercarriage" : {
+						"Width with retracted/extended tracks" : "3000/3900 mm",
+						"Tracks length" : "5200 mm",
+						"Shoes width" : "700 (opt. 800 / 900) mm"
+					},
+					"Engine" : {
+						"Power at 1800 rpm" : "403 kW / 470 kW",
+						"Engine conforms to exhaust emission" : "EU Stage IIIA/IIIB – US EPA TIER III/IVi"
+					},
+					"Crowd winch" : {
+						"Max line pull" : "240 kN",
+						"Max crowd" : "240 kN",
+						"Max speed" : "35 m/min"
+					},
+					"Auxiliary winch" : {
+						"Max line pull" : "70 kN",
+						"Max speed" : "27 m/min"
+					},
+					"Mast" : {
+						"Stroke of counter mast" : "3000 mm",
+						"Mast extensions" : "2 x 1250 mm",
+						"Rotating jib with hydraulic cylinder" : "+/- 45&deg;"
+					},
+					"Mast inclination" : {
+						"Front | Rear | Lateral" : "4&deg; | 15&deg; | &plusmn;5&deg;"
+					},
+					"Mast rotation" : {
+						"Side rotation" : "+/- 100&deg;",
+						"Max allowable torque" : "35 kNm"
+					},
+					"Weight of base equipment" : "&#126; 60000 kg"
+				}
+			},
+			{
+				"title" : "VIBRATOR FOR SHEET PILING",
+				"img" : "V1619-VIBRATOR.jpg",
+				"docs": "V16-19-UK-IT.pdf",
+				"gallery" : [],
+				"gallery-thumbs" : [],
+				"video" : [],
+				"spec" : {
+					"Max sheet pile length" : "17,2 m",
+					"Optional" : {
+						"Mast extension" : "2,5 m",
+						"Max sheet pile length" : "19,7 m"
+					}
+				}
+			},
+			{
+				"title" : "PILE DRIVING WITH HYDRAULIC HAMMER",
+				"img" : "V1619-PILE-DRIVING.jpg",
+				"docs": "V16-19-UK-IT.pdf",
+				"gallery" : [],
+				"gallery-thumbs" : [],
+				"video" : [],
+				"spec" : {
+					"Max pile length" : "15,2 m",
+					"Optional" : {
+						"Mast extension" : "2,5 m",
+						"Max sheet pile length" : "17,7 m"
+					}
+				}
+			},
+			{
+				"title" : "CFA CONTINUOS FLIGHT AUGER",
+				"img" : "V1619-CFA.jpg",
+				"docs": "V16-19-UK-IT.pdf",
+				"gallery" : [],
+				"gallery-thumbs" : [],
+				"video" : [],
+				"spec" : {
+					"Max depth" : "23,2 m",
+					"Torque" : "135 kN",
+					"Speed" : "33 rpm",
+					"Optional" : {
+						"Mast extension" : "2,5 m",
+						"Max depth" : "25,7 m"
+					}
+				}
+			},
+			{
+				"title" : "DISPLACEMENT PILES",
+				"img" : "V1619-DISPLACEMENT-PILE.jpg",
+				"docs": "V16-19-UK-IT.pdf",
+				"gallery" : [],
+				"gallery-thumbs" : [],
+				"video" : [],
+				"spec" : {
+					"Max depth" : "23,2 m",
+					"Optional" : {
+						"Mast extension" : "2,5 m",
+						"Max depth" : "25,7 m"
+					}
+				}
+			},
+			{
+				"title" : "CASED CFA VDW",
+				"img" : "V1619-CASED-CFA.jpg",
+				"docs": "V16-19-UK-IT.pdf",
+				"gallery" : [],
+				"gallery-thumbs" : [],
+				"video" : [],
+				"spec" : {
+					"Max depth" : "17,2 m",
+					"Optional" : {
+						"Mast extension" : "2,5 m",
+						"Max depth" : "19,7 m"
+					}
+				}
+			},
+			{
+				"title" : "SOIL MIXING",
+				"img" : "V1619-SOIL-MIXING.jpg",
+				"docs": "V16-19-UK-IT.pdf",
+				"gallery" : [],
+				"gallery-thumbs" : [],
+				"video" : [],
+				"spec" : {
+					"Max depth" : "23,2 m",
+					"Torque" : "112 kN",
+					"Speed" : "70 rpm",
+					"Optional" : {
+						"Mast extension" : "2,5 m",
+						"Max depth" : "25,7 m"
+					}
+				}
+			},
+			{
+				"title" : "CSM CUTTING SOIL MIXING",
+				"img" : "V1619-CSM.jpg",
+				"docs": "V16-19-UK-IT.pdf",
+				"gallery" : [],
+				"gallery-thumbs" : [],
+				"video" : [],
+				"spec" : {
+					"Max depth" : "16,5 m",
+					"Trench" : "1000×2800 mm",
+					"Optional" : {
+						"Mast extension" : "2,5 m",
+						"Max depth" : "19 m"
+					}
+				}
+			}
+		]
+	}
+}
