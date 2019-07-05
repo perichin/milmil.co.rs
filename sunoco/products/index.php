@@ -126,14 +126,10 @@
       <div class="row">
         <div class="col-sm-6">
           <img class="modal-img img-fluid g-mb-20" src="" />
+          <ul class="modal-list g-list-style-circle"></ul>
         </div>
         <div class="col-sm-6">
           <p class="modal-description text-justify"></p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-12">
-          <ul class="modal-list g-list-style-circle"></ul>
         </div>
       </div>
     </div>

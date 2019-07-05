@@ -15,10 +15,7 @@
 <script src="../../../assets/js/helpers/hs.hamburgers.js"></script>
 <script src="../../../assets/js/components/hs.cubeportfolio.js"></script>
 <script src="../../../assets/js/components/hs.go-to.js"></script>
-<script src="../../../assets/js/components/hs.modal-window.js"></script>    
-
-<!-- JS Customization -->
-<script src="../../../assets/js/custom.js"></script>
+<script src="../../../assets/js/components/hs.modal-window.js"></script>
 
 <!-- JS Plugins Init. -->
 <script>
@@ -27,7 +24,7 @@
     $.HSCore.components.HSGoTo.init('.js-go-to');
     // passing data to modal
     var products = <?php echo json_encode($products); ?>;
-    $.HSCore.components.HSModalWindow.init('[data-modal-target]', {"products" : products});          
+    $.HSCore.components.HSModalWindow.init('[data-modal-target]', {"products" : products});
   });
 
   $(window).on('load', function () {

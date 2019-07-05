@@ -685,8 +685,8 @@
       <section class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll loaded dzsprx-readyall " data-options='{direction: "fromtop", animation_duration: 25, direction: "reverse"}'>
         <div id="GMapCustomized-light" class="js-g-map embed-responsive embed-responsive-21by9"
           data-type="custom"
-          data-lat="44.77671369999999"
-          data-lng="20.5324028"
+          data-lat="44.7699167"
+          data-lng="20.561611111111112"
           data-zoom="15"
           data-title="Mil&amp;Mil.Co"
           data-styles='[
@@ -765,31 +765,31 @@
           <div class="row justify-content-center">
             <div class="col-lg-9">
               <h3 class="g-color-black g-font-weight-600 text-center mb-5">Obratite nam se, tu smo zbog Vas!</h3>
-              <form>
+              <form method="post" action="send-mail.php">
                 <div class="row">
                   <div class="col-md-6 form-group g-mb-20">
                     <label class="g-color-gray-dark-v2 g-font-size-13">Ime i prezime</label>
-                    <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--hover rounded-3 g-py-13 g-px-15" type="text" placeholder="Unesite ime i prezime">
+                    <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--hover rounded-3 g-py-13 g-px-15" type="text" name="first_last_name" placeholder="Unesite ime i prezime" required>
                   </div>
 
                   <div class="col-md-6 form-group g-mb-20">
                   <label class="g-color-gray-dark-v2 g-font-size-13">Email</label>
-                    <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--hover rounded-3 g-py-13 g-px-15" type="email" placeholder="Unesite email">
+                    <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--hover rounded-3 g-py-13 g-px-15" type="email" name="email" placeholder="Unesite email" required>
                   </div>
 
                   <div class="col-md-6 form-group g-mb-20">
                     <label class="g-color-gray-dark-v2 g-font-size-13">Naziv firme</label>
-                    <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--hover rounded-3 g-py-13 g-px-15" type="text" placeholder="Unesite naziv firme">
+                    <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--hover rounded-3 g-py-13 g-px-15" type="text" name="company" placeholder="Unesite naziv firme" required>
                   </div>
 
                   <div class="col-md-6 form-group g-mb-20">
                     <label class="g-color-gray-dark-v2 g-font-size-13">Telefon</label>
-                    <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--hover rounded-3 g-py-13 g-px-15" type="tel" placeholder="(064) 123-4567">
+                    <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--hover rounded-3 g-py-13 g-px-15" type="tel" id="phone" name="phone" placeholder="(064) 123-4567" required>
                   </div>
 
                   <div class="col-md-12 form-group g-mb-40">
                     <label class="g-color-gray-dark-v2 g-font-size-13">Poruka</label>
-                    <textarea class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--hover g-resize-none rounded-3 g-py-13 g-px-15" rows="7" placeholder="Tekst poruke"></textarea>
+                    <textarea class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--hover g-resize-none rounded-3 g-py-13 g-px-15" rows="7" name="message" placeholder="Tekst poruke" required></textarea>
                   </div>
                 </div>
 
@@ -910,6 +910,7 @@
     <script src="../../assets/js/components/hs.popup.js"></script>
 
     <!-- JS Customization -->
+    <script src="../../assets/js/jquery.mask.js"></script>
     <script src="../../assets/js/custom.js"></script>
 
     <!-- JS Plugins Init. -->

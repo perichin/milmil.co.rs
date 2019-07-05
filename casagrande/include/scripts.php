@@ -10,9 +10,7 @@
 <!-- JS Revolution Slider -->
 <script src="../../assets/vendor/revolution-slider/revolution/js/jquery.themepunch.tools.min.js"></script>
 <script src="../../assets/vendor/revolution-slider/revolution/js/jquery.themepunch.revolution.min.js"></script>
-
 <script src="../../assets/vendor/revolution-slider/revolution-addons/slicey/js/revolution.addon.slicey.min.js"></script>
-
 <script src="../../assets/vendor/revolution-slider/revolution/js/extensions/revolution.extension.actions.min.js"></script>
 <script src="../../assets/vendor/revolution-slider/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
 <script src="../../assets/vendor/revolution-slider/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
@@ -28,9 +26,6 @@
 <script src="../../assets/js/components/hs.header.js"></script>
 <script src="../../assets/js/helpers/hs.hamburgers.js"></script>
 <script src="../../assets/js/components/hs.go-to.js"></script>
-
-<!-- JS Customization -->
-<script src="../../assets/js/custom.js"></script>
 
 <!-- JS Plugins Init. -->
 <script>

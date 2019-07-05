@@ -19,9 +19,6 @@
 <script src="../../../assets/js/components/hs.go-to.js"></script>
 <script src="../../../assets/js/components/hs.popup.js"></script>
 
-<!-- JS Customization -->
-<script src="../../../assets/js/custom.js"></script>
-
 <!-- JS Plugins Init. -->
 <script>
 
