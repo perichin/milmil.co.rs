@@ -3855,7 +3855,7 @@
 
 		},
 		exit : function () {
-			document[ fn.exitFullscreen ]();
+			return Boolean( document[ fn.exitFullscreen ] );
 		},
 		toggle : function ( elem ) {
 
