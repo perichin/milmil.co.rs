@@ -794,7 +794,7 @@
                 </div>
 
                 <div class="text-center">
-                  <button class="btn u-btn-primary g-font-weight-600 g-font-size-13 text-uppercase g-rounded-25 g-py-15 g-px-30" type="submit" role="button">Pošaljite poruku</button>
+                  <button id="send-mail" class="btn u-btn-primary g-font-weight-600 g-font-size-13 text-uppercase g-rounded-25 g-py-15 g-px-30" type="submit" role="button">Pošaljite poruku</button>
                 </div>
               </form>
             </div>
@@ -1010,7 +1010,16 @@
       }
     </script>
 
-    <!-- <script  src="//maps.googleapis.com/maps/api/js?key=API_KEY&amp;callback=initMap" async="" defer=""></script> -->
-    <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyAtt1z99GtrHZt_IcnK-wryNsQ30A112J0&callback=initMap" async defer></script>
+    <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyBWoCnCQvuMVvB2wDzIsxsT2apacb6CEzQ&callback=initMap" async defer></script>
+
+    <!-- Google reCAPTCHA v3 -->
+    <script src="https://www.google.com/recaptcha/api.js?render=6LeLUqwUAAAAAFMv8glI45Od8ieMQT1toAFw-Va6"></script>
+    <script>
+    grecaptcha.ready(function() {
+        grecaptcha.execute('6LeLUqwUAAAAAFMv8glI45Od8ieMQT1toAFw-Va6', { action: 'homepage' }).then(function(token) {
+          console.log('Token: ', token);
+        });
+    });
+    </script>
   </body>
 </html>
