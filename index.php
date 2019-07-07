@@ -1012,14 +1012,5 @@
 
     <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyBWoCnCQvuMVvB2wDzIsxsT2apacb6CEzQ&callback=initMap" async defer></script>
 
-    <!-- Google reCAPTCHA v3 -->
-    <script src="https://www.google.com/recaptcha/api.js?render=6LeLUqwUAAAAAFMv8glI45Od8ieMQT1toAFw-Va6"></script>
-    <script>
-    grecaptcha.ready(function() {
-        grecaptcha.execute('6LeLUqwUAAAAAFMv8glI45Od8ieMQT1toAFw-Va6', { action: 'homepage' }).then(function(token) {
-          console.log('Token: ', token);
-        });
-    });
-    </script>
   </body>
 </html>
